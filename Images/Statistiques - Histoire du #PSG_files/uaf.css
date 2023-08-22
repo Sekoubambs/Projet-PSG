@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'big-noodle-classic';
+					src: url('/wp-content/uploads/useanyfont/170616115241Big-Noodle-Classic.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.big-noodle-classic{font-family: 'big-noodle-classic' !important;}
+
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'big-noodle-classic' !important;
+				}
+		

@@ -1,0 +1,13 @@
+.widget_dli_widget .et_pb_row {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.widget_dli_widget .et_pb_section {
+    padding-top: 0;
+    padding-bottom: 0;
+}

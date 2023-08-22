@@ -1,0 +1,378 @@
+.fanclub {
+    font-size: 70px;
+    background-color: rgb(1, 35, 70);
+    height: 200px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.paris {
+    color: rgb(244, 10, 11);
+    text-shadow: 2px 2px 0 white, -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.fan {
+    color: white;
+    text-shadow: 2px 2px 0 blue, -2px -2px 0 blue, 2px -2px 0 blue, -2px 2px 0 blue;
+    transform: translateY(15%);
+    margin-top: 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.barre-nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.bandeau {
+    height: 100px;
+    width: 100%;
+}
+
+
+.bandeau.blanc {
+    background-color: white;
+    height: 10px;
+}
+
+.bandeau.rouge {
+    background-color: rgb(210, 28, 28);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.bandeau.bleu {
+    background-color: rgb(1, 35, 70);
+    height: 30px;
+}
+
+
+.logo{
+    position: absolute;
+    right: 20px;
+    transform: translateY(0%);
+    width: 250px; 
+    height: 200px;
+}
+
+
+.connexion {
+    background-color: rgb(164, 13, 13);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.connexion.deconnexion {
+    background-color: rgb(164, 13, 13);
+}
+
+
+.tab-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    list-style: none;
+}
+
+
+.tab-container li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.tab-container li a {
+    display: block;
+    padding: 10px 20px;
+    color: blanchedalmond;
+    background-color: rgb(210, 28, 28);
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.tab-container li a:hover {
+    background-color: rgb(1, 35, 70); 
+}
+
+
+.pageAccueil {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.bienvenue {
+    color: rgb(244, 10, 11);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: "Lucida Handwriting", cursive;
+}
+
+.trophées {
+    color: rgb(244, 10, 11);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    font-family: "Lucida Handwriting", cursive;
+    display: flex;
+    justify-content: center;
+}
+
+
+.image-container-bienvenue {
+    display: flex;
+    align-items: center;
+}
+
+.image-container-bienvenue img {
+    margin: 25px; /* Ajoute un espace entre les images */
+    height: 100px;
+}
+
+p {
+    font-family: "Papyrus";
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.images-container-accueil {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.images-container-accueil img {
+    width: 70%;
+    max-width: 100%; 
+    height: auto; 
+    margin-bottom: 20px;
+}
+
+
+.images-container img {
+    max-width: 30%; 
+    height: auto;
+}
+
+
+
+.column-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.column {
+    flex-basis: 90%; /* Ajustez cette valeur pour gérer l'espace entre les colonnes */
+    margin-left: 15px;
+}
+
+.date {
+    color: rgb(244, 10, 11);
+    font-family: "Papyrus";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.textHistoire {
+    font-size: 15px;
+    font-family: "Papyrus";
+    font-weight: bold;
+
+}
+
+.imageHistorique img {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+    height: auto;
+}
+
+.compo {
+    text-align: center; 
+    margin-bottom: 40px; 
+}
+
+.compo img {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Style pour le conteneur des cartes (flexbox) */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Centre horizontalement les cartes */
+    width: 100%; /* Utiliser toute la largeur de la page */
+    margin: 100px auto 0; /* Marge supérieure de 100px, marges latérales automatiques */
+}
+
+/* Style pour la carte */
+.card {
+    flex: 0 0 calc(33.33% - 100px);
+    border: 1px solid rgb(1, 35, 70);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgb(164, 13, 13);
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(1, 35, 70); /* Ajoutez cette ligne pour définir la couleur de fond */
+    transition: transform 0.3s ease;
+}
+
+.title {
+    color: rgb(244, 10, 11);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: "Lucida Handwriting", cursive;
+    margin-left: 500px;
+}
+
+/* Agrandissement au survol de la souris */
+.card:hover {
+    transform: scale(1.05); /* Ajustez le facteur d'agrandissement selon vos besoins */
+}
+
+.card-body {
+    display: flex; /* Utilisation de flexbox pour centrer verticalement et horizontalement */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+/* Style pour la photo du joueur */
+.player-photo {
+    max-width: 80%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 50px; /* Vous pouvez ajuster la marge inférieure selon vos besoins */
+}
+
+.card-title {
+    font-size: 18px;
+    margin: 0;
+    color: white;
+}
+
+.card-text {
+    font-size: 14px;
+    color: white;
+    margin: 5px 0;
+}
+
+
+
+.terrain {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 75px;
+}
+
+.terrain-image {
+    max-width: 80%;
+    height: 70%;
+    margin-left: 20px;
+}
+
+.joueurs-liste {
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    list-style-type: none; 
+    padding: 0;
+    color: rgb(244, 10, 11);
+}
+
+.descriptionRemplacant {
+    margin-top: 205px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold; /* Ajoute de la mise en évidence */
+}
+
+.descriptionReserve {
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    justify-content: left;
+    display: flex;
+}  
+
+  .forms-container {
+    display: flex; /* Display forms side by side */
+    justify-content: space-around; /* Add space between forms */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Use the full viewport height */
+}
+
+/* Style for individual form */
+.form-wrapper {
+    width: 45%; /* Set the width of each form */
+    padding: 20px; /* Add spacing around each form */
+    box-sizing: border-box; /* Include padding and border in width calculation */
+} 
+
+.gal {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 50px; /* Ajustez cette valeur pour rapprocher ou éloigner les images */
+    padding: 20px;
+}
+
+.gallery img {
+    max-width: 100%;
+    height: 250px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.9s;
+}
+
+.gallery img:hover {
+    transform: scale(1.15);
+}
+

@@ -1,0 +1,65 @@
+# script créé le : Wed Aug 02 11:43:30 CEST 2023 -   syntaxe MySQL ;
+
+# use  VOTRE_BASE_DE_DONNEE ;
+
+DROP TABLE IF EXISTS joueur ;
+CREATE TABLE joueur (Id_joueur int AUTO_INCREMENT NOT NULL,
+Nom_joeur VARCHAR(250),
+Prenom_joueur VARCHAR(250),
+Nationalité VARCHAR(250),
+Pied_préféré VARCHAR(250),
+Photo_joueur TEXT,
+age INT(75),
+Date_de_naissance DATE,
+Id_statut INT NOT NULL,
+PRIMARY KEY (Id_joueur) ) ENGINE=InnoDB;
+
+DROP TABLE IF EXISTS staff ;
+CREATE TABLE staff (Id_staff int AUTO_INCREMENT NOT NULL,
+Nom_staff VARCHAR(250),
+Prenom_staff VARCHAR(250),
+Nationalité_staff VARCHAR(250),
+Id_role INT NOT NULL,
+PRIMARY KEY (Id_staff) ) ENGINE=InnoDB;
+
+DROP TABLE IF EXISTS utilisateur ;
+CREATE TABLE utilisateur (Id_utilisateur int AUTO_INCREMENT NOT NULL,
+Nom_utilisateur VARCHAR(250),
+Prenom_utilisateur VARCHAR(250),
+PRIMARY KEY (Id_utilisateur) ) ENGINE=InnoDB;
+
+DROP TABLE IF EXISTS role_staff ;
+CREATE TABLE role_staff (Id_role int AUTO_INCREMENT NOT NULL,
+nom_role VARCHAR(250),
+PRIMARY KEY (Id_role) ) ENGINE=InnoDB;
+
+DROP TABLE IF EXISTS statut_ ;
+CREATE TABLE statut_ (Id_statut int AUTO_INCREMENT NOT NULL,
+joueur_statut VARCHAR(250),
+PRIMARY KEY (Id_statut) ) ENGINE=InnoDB;
+
+DROP TABLE IF EXISTS position ;
+CREATE TABLE position (Id_postion int AUTO_INCREMENT NOT NULL,
+poste VARCHAR(250),
+cote_terrain VARCHAR(250),
+PRIMARY KEY (Id_postion) ) ENGINE=InnoDB;
+
+DROP TABLE IF EXISTS entraine ;
+CREATE TABLE entraine (Id_joueur int AUTO_INCREMENT NOT NULL,
+Id_staff INT NOT NULL,
+PRIMARY KEY (Id_joueur,
+ Id_staff) ) ENGINE=InnoDB;
+
+DROP TABLE IF EXISTS joue ;
+CREATE TABLE joue (Id_joueur int AUTO_INCREMENT NOT NULL,
+Id_postion INT NOT NULL,
+PRIMARY KEY (Id_joueur,
+ Id_postion) ) ENGINE=InnoDB;
+
+ALTER TABLE joueur ADD CONSTRAINT FK_joueur_Id_statut FOREIGN KEY (Id_statut) REFERENCES statut_ (Id_statut);
+
+ALTER TABLE staff ADD CONSTRAINT FK_staff_Id_role FOREIGN KEY (Id_role) REFERENCES role_staff (Id_role);
+ALTER TABLE entraine ADD CONSTRAINT FK_entraine_Id_joueur FOREIGN KEY (Id_joueur) REFERENCES joueur (Id_joueur);
+ALTER TABLE entraine ADD CONSTRAINT FK_entraine_Id_staff FOREIGN KEY (Id_staff) REFERENCES staff (Id_staff);
+ALTER TABLE joue ADD CONSTRAINT FK_joue_Id_joueur FOREIGN KEY (Id_joueur) REFERENCES joueur (Id_joueur);
+ALTER TABLE joue ADD CONSTRAINT FK_joue_Id_postion FOREIGN KEY (Id_postion) REFERENCES position (Id_postion);

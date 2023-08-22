@@ -1,0 +1,1241 @@
+<!DOCTYPE html>
+<html >
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://histoiredupsg.fr/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://histoiredupsg.fr';var et_post_id='158601';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.13 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>404 - Histoire du #PSG</title>
+	<meta name="description" content="Le site sur l&#039;Histoire du PSG - Paris Saint-Germain" />
+	<link rel="canonical" href="https://histoiredupsg.fr/404-2/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="404 - Histoire du #PSG" />
+	<meta property="og:description" content="Le site sur l&#039;Histoire du PSG - Paris Saint-Germain" />
+	<meta property="og:url" content="https://histoiredupsg.fr/404-2/" />
+	<meta property="og:site_name" content="Histoire du #PSG" />
+	<meta property="article:publisher" content="https://www.facebook.com/HistoireDuPSG/" />
+	<meta property="article:modified_time" content="2023-01-27T22:04:09+00:00" />
+	<meta property="og:image" content="https://histoiredupsg.fr/wp-content/uploads/2023/01/404.png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@Histoire_du_PSG" />
+	<meta name="twitter:label1" content="Durée de lecture estimée" />
+	<meta name="twitter:data1" content="25 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://histoiredupsg.fr/404-2/","url":"https://histoiredupsg.fr/404-2/","name":"404 - Histoire du #PSG","isPartOf":{"@id":"https://histoiredupsg.fr/#website"},"primaryImageOfPage":{"@id":"https://histoiredupsg.fr/404-2/#primaryimage"},"image":{"@id":"https://histoiredupsg.fr/404-2/#primaryimage"},"thumbnailUrl":"https://histoiredupsg.fr/wp-content/uploads/2023/01/404.png","datePublished":"2019-01-27T22:02:24+00:00","dateModified":"2023-01-27T22:04:09+00:00","description":"Le site sur l'Histoire du PSG - Paris Saint-Germain","breadcrumb":{"@id":"https://histoiredupsg.fr/404-2/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://histoiredupsg.fr/404-2/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://histoiredupsg.fr/404-2/#primaryimage","url":"https://histoiredupsg.fr/wp-content/uploads/2023/01/404.png","contentUrl":"https://histoiredupsg.fr/wp-content/uploads/2023/01/404.png","width":1920,"height":1080},{"@type":"BreadcrumbList","@id":"https://histoiredupsg.fr/404-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://histoiredupsg.fr/"},{"@type":"ListItem","position":2,"name":"404"}]},{"@type":"WebSite","@id":"https://histoiredupsg.fr/#website","url":"https://histoiredupsg.fr/","name":"Histoire du #PSG","description":"⚠️Le site rencontre des difficultés d&#039;affichage. Nous avons mis en place une interface provisoire pour que vous puissiez naviguer. L&#039;équipe HdPSG⚠️","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://histoiredupsg.fr/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//apis.google.com' />
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Histoire du #PSG &raquo; Flux" href="https://histoiredupsg.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Histoire du #PSG &raquo; Flux des commentaires" href="https://histoiredupsg.fr/comments/feed/" />
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v7.18.1 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-KXWVPE9ZCL"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var em_version = '7.18.1';
+				var em_track_user = true;
+				var em_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-KXWVPE9ZCL',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.ExactMetricsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (em_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = exactmetrics_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof ExactMetricsDualTracker.trackers[hookName] !== 'undefined') {
+								ExactMetricsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dNDMyYj': true,
+											});
+										__gtagTracker('config', 'G-KXWVPE9ZCL', {"forceSSL":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/histoiredupsg.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<meta content="Divi v.3.3.1" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='ytwd_frontend_main-css-css' href='https://histoiredupsg.fr/wp-content/plugins/wd-youtube/css/frontend_main.css?ver=1.0.33' type='text/css' media='all' />
+<link rel='stylesheet' id='ytwd_bootstrap-css-css' href='https://histoiredupsg.fr/wp-content/plugins/wd-youtube/css/bootstrap.css?ver=1.0.33' type='text/css' media='all' />
+<link rel='stylesheet' id='ytwd_font-css-css' href='https://histoiredupsg.fr/wp-content/plugins/wd-youtube/css/font-awesome/font-awesome.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='child-theme-generator-css' href='https://histoiredupsg.fr/wp-content/plugins/child-theme-generator/public/css/child-theme-generator-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://histoiredupsg.fr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='db121_socicons-css' href='https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/fixes/126-customizer-social-icons/icons.css?ver=3.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dbdb-icons-socicon-css' href='https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/icons/socicon/style.css?ver=3.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dbdb-icons-divi-booster-icons-css' href='https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/icons/divi-booster-icons/icomoon/style.css?ver=3.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wtfdivi-user-css-css' href='https://histoiredupsg.fr/wp-content/uploads/wtfdivi/wp_head.css?ver=1598785379' type='text/css' media='all' />
+<link rel='stylesheet' id='dsm-animate-css' href='https://histoiredupsg.fr/wp-content/plugins/supreme-modules-for-divi/public/css/animate.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='uaf_client_css-css' href='https://histoiredupsg.fr/wp-content/uploads/useanyfont/uaf.css?ver=1680338276' type='text/css' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css' href='https://histoiredupsg.fr/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css' href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://histoiredupsg.fr/wp-content/themes/Divi_old/style.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='supreme-modules-for-divi-styles-css' href='https://histoiredupsg.fr/wp-content/plugins/supreme-modules-for-divi/styles/style.min.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Oswald%3A200%2C300%2Cregular%2C500%2C600%2C700&#038;ver=6.3#038;subset=cyrillic,vietnamese,latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='eticonfont-styles-css' href='https://histoiredupsg.fr/wp-content/plugins/elegant-themes-icons/assets/css/etfonts-style.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://histoiredupsg.fr/wp-includes/css/dashicons.min.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://histoiredupsg.fr/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+@media screen and (max-width:980px){
+.a2a_floating_style.a2a_vertical_style{display:none;}
+}
+</style>
+<link rel='stylesheet' id='sb_divi_fe_custom_css-css' href='https://histoiredupsg.fr/wp-content/plugins/divi_layout_injector/style.css?ver=6.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/wd-youtube/js/linkify.js?ver=6.3' id='ytwd_linkify-js-js'></script>
+<script type='text/javascript' src='https://apis.google.com/js/platform.js?ver=6.3' id='ytwd_platform-js-js'></script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend-gtag.min.js?ver=7.18.1' id='exactmetrics-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='exactmetrics-frontend-script-js-extra'>/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/histoiredupsg.fr","hash_tracking":"false","v4_id":"G-KXWVPE9ZCL"};/* ]]> */
+</script>
+<script id="addtoany-core-js-before" type="text/javascript">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Partager",
+	Save: "Enregistrer",
+	Subscribe: "S'abonner",
+	Email: "E-mail",
+	Bookmark: "Signet",
+	ShowAll: "Montrer tout",
+	ShowLess: "Montrer moins",
+	FindServices: "Trouver des service(s)",
+	FindAnyServiceToAddTo: "Trouver instantan&eacute;ment des services &agrave; ajouter &agrave;",
+	PoweredBy: "Propuls&eacute; par",
+	ShareViaEmail: "Partager par e-mail",
+	SubscribeViaEmail: "S’abonner par e-mail",
+	BookmarkInYourBrowser: "Ajouter un signet dans votre navigateur",
+	BookmarkInstructions: "Appuyez sur Ctrl+D ou \u2318+D pour mettre cette page en signet",
+	AddToYourFavorites: "Ajouter &agrave; vos favoris",
+	SendFromWebOrProgram: "Envoyer depuis n’importe quelle adresse e-mail ou logiciel e-mail",
+	EmailProgram: "Programme d’e-mail",
+	More: "Plus&#8230;",
+	ThanksForSharing: "Merci de partager !",
+	ThanksForFollowing: "Merci de nous suivre !"
+};
+</script>
+<script type='text/javascript' async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script type='text/javascript' async src='https://histoiredupsg.fr/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/child-theme-generator/public/js/child-theme-generator-public.js?ver=1.0.0' id='child-theme-generator-js'></script>
+<link rel="https://api.w.org/" href="https://histoiredupsg.fr/wp-json/" /><link rel="alternate" type="application/json" href="https://histoiredupsg.fr/wp-json/wp/v2/pages/158601" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://histoiredupsg.fr/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.3" />
+<link rel='shortlink' href='https://histoiredupsg.fr/?p=158601' />
+<link rel="alternate" type="application/json+oembed" href="https://histoiredupsg.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhistoiredupsg.fr%2F404-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://histoiredupsg.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhistoiredupsg.fr%2F404-2%2F&#038;format=xml" />
+	<script>
+	 
+	</script>
+<style>
+.db_title, .db_tagline { 
+    margin-right: 30px;
+    margin-top: 8px;
+    line-height: 1em;
+}
+.db_title_and_tagline {
+    display: flex;
+}
+.db_tagline_below_title_on .db_title_and_tagline {
+    flex-direction: column;
+}
+</style>
+    <style>
+/* Display the team member icons */
+.db_pb_team_member_website_icon:before{content:"\e0e3";}
+.db_pb_team_member_email_icon:before{content:"\e010";}
+.db_pb_team_member_instagram_icon:before{content:"\e09a";}
+
+/* Fix email icon hidden by Email Address Encoder plugin */
+ul.et_pb_member_social_links li > span { 
+	display: inline-block !important; 
+}
+</style>
+<style>
+@media only screen and (min-width: 981px) {
+    .et_pb_module.db_inline_form .et_pb_newsletter_fields > p { 
+        flex: auto !important;
+    }
+    .et_pb_module.db_inline_form .et_pb_newsletter_fields p.et_pb_newsletter_field {
+        margin-right: 2%; 
+    }
+}
+</style>
+	<script>
+	jQuery(function($) {
+						if ($('#top-header .socicon-youtube').length === 0) {
+					$('#top-header .et-social-icons').append("<li class=\"et-social-icon\"><a href=\"https:\/\/www.youtube.com\/channel\/UCjy-yU6qDGXoxYdap1NYQjg\" class=\"icon socicon socicon-youtube\" alt=\"YouTube\" aria-label=\"YouTube\"><span>YouTube<\/span><\/a><\/li>");
+					$('#top-header .et-extra-social-icons').append("<li class=\"et-extra-social-icon\"><a href=\"https:\/\/www.youtube.com\/channel\/UCjy-yU6qDGXoxYdap1NYQjg\" class=\"et-extra-icon et-extra-icon-background-hover socicon socicon-youtube\"><\/a><\/li>");
+				}
+				if ($('#footer-bottom .socicon-youtube').length === 0) {
+					$('#footer-bottom .et-social-icons').append("<li class=\"et-social-icon\"><a href=\"https:\/\/www.youtube.com\/channel\/UCjy-yU6qDGXoxYdap1NYQjg\" class=\"icon socicon socicon-youtube\" alt=\"YouTube\" aria-label=\"YouTube\"><span>YouTube<\/span><\/a><\/li>");
+					$('#footer-bottom .et-extra-social-icons').append("<li class=\"et-extra-social-icon\"><a href=\"https:\/\/www.youtube.com\/channel\/UCjy-yU6qDGXoxYdap1NYQjg\" class=\"et-extra-icon et-extra-icon-background-hover socicon socicon-youtube\"><\/a><\/li>");
+				}
+				if ($('.et_slide_in_menu_container .socicon-youtube').length === 0) {
+					$('.et_slide_in_menu_container .et-social-icons').append("<li class=\"et-social-icon\"><a href=\"https:\/\/www.youtube.com\/channel\/UCjy-yU6qDGXoxYdap1NYQjg\" class=\"icon socicon socicon-youtube\" alt=\"YouTube\" aria-label=\"YouTube\"><span>YouTube<\/span><\/a><\/li>");
+					$('.et_slide_in_menu_container .et-extra-social-icons').append("<li class=\"et-extra-social-icon\"><a href=\"https:\/\/www.youtube.com\/channel\/UCjy-yU6qDGXoxYdap1NYQjg\" class=\"et-extra-icon et-extra-icon-background-hover socicon socicon-youtube\"><\/a><\/li>");
+				}
+								if ($('#top-header .socicon-instagram').length === 0) {
+					$('#top-header .et-social-icons').append("<li class=\"et-social-icon\"><a href=\"https:\/\/www.instagram.com\/histoire_du_psg\/\" class=\"icon socicon socicon-instagram\" alt=\"Instagram\" aria-label=\"Instagram\"><span>Instagram<\/span><\/a><\/li>");
+					$('#top-header .et-extra-social-icons').append("<li class=\"et-extra-social-icon\"><a href=\"https:\/\/www.instagram.com\/histoire_du_psg\/\" class=\"et-extra-icon et-extra-icon-background-hover socicon socicon-instagram\"><\/a><\/li>");
+				}
+				if ($('#footer-bottom .socicon-instagram').length === 0) {
+					$('#footer-bottom .et-social-icons').append("<li class=\"et-social-icon\"><a href=\"https:\/\/www.instagram.com\/histoire_du_psg\/\" class=\"icon socicon socicon-instagram\" alt=\"Instagram\" aria-label=\"Instagram\"><span>Instagram<\/span><\/a><\/li>");
+					$('#footer-bottom .et-extra-social-icons').append("<li class=\"et-extra-social-icon\"><a href=\"https:\/\/www.instagram.com\/histoire_du_psg\/\" class=\"et-extra-icon et-extra-icon-background-hover socicon socicon-instagram\"><\/a><\/li>");
+				}
+				if ($('.et_slide_in_menu_container .socicon-instagram').length === 0) {
+					$('.et_slide_in_menu_container .et-social-icons').append("<li class=\"et-social-icon\"><a href=\"https:\/\/www.instagram.com\/histoire_du_psg\/\" class=\"icon socicon socicon-instagram\" alt=\"Instagram\" aria-label=\"Instagram\"><span>Instagram<\/span><\/a><\/li>");
+					$('.et_slide_in_menu_container .et-extra-social-icons').append("<li class=\"et-extra-social-icon\"><a href=\"https:\/\/www.instagram.com\/histoire_du_psg\/\" class=\"et-extra-icon et-extra-icon-background-hover socicon socicon-instagram\"><\/a><\/li>");
+				}
+					});
+	</script>
+	<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v6.0"></script><style type="text/css" media="screen">input#akismet_privacy_check { float: left; margin: 7px 7px 7px 0; width: 13px; }</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="https://histoiredupsg.fr/wp-content/uploads/2017/05/Logo-HDPSG-png.png" /><style type="text/css" media="screen">body{position:relative}#dynamic-to-top{display:none;overflow:hidden;width:auto;z-index:90;position:fixed;bottom:20px;right:20px;top:auto;left:auto;font-family:sans-serif;font-size:1em;color:#fff;text-decoration:none;text-shadow:0 1px 0 #333;font-weight:bold;padding:16px 16px;border:2px solid #ffffff;background:#d80d0d;-webkit-background-origin:border;-moz-background-origin:border;-icab-background-origin:border;-khtml-background-origin:border;-o-background-origin:border;background-origin:border;-webkit-background-clip:padding-box;-moz-background-clip:padding-box;-icab-background-clip:padding-box;-khtml-background-clip:padding-box;-o-background-clip:padding-box;background-clip:padding-box;-webkit-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-ms-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-moz-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-o-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-khtml-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-icab-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-webkit-border-radius:27px;-moz-border-radius:27px;-icab-border-radius:27px;-khtml-border-radius:27px;border-radius:27px}#dynamic-to-top:hover{background:#56a6de;background:#d80d0d -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 255, 255, 255, .2 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#d80d0d -webkit-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -khtml-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -moz-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -o-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -ms-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -icab-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );cursor:pointer}#dynamic-to-top:active{background:#d80d0d;background:#d80d0d -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 0, 0, 0, .3 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#d80d0d -webkit-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -moz-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -khtml-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -o-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -ms-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d -icab-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#d80d0d linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) )}#dynamic-to-top,#dynamic-to-top:active,#dynamic-to-top:focus,#dynamic-to-top:hover{outline:none}#dynamic-to-top span{display:block;overflow:hidden;width:14px;height:12px;background:url( https://histoiredupsg.fr/wp-content/plugins/dynamic-to-top/css/images/up.png )no-repeat center center}</style><script>
+	jQuery(function($){
+    $('img.alignnone.size-medium.wp-image-328').attr('href','https://histoiredupsg.fr/');
+});
+	</script><link rel="icon" href="https://histoiredupsg.fr/wp-content/uploads/2017/05/cropped-Photo-11-08-2015-13-39-17-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://histoiredupsg.fr/wp-content/uploads/2017/05/cropped-Photo-11-08-2015-13-39-17-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://histoiredupsg.fr/wp-content/uploads/2017/05/cropped-Photo-11-08-2015-13-39-17-180x180.png" />
+<meta name="msapplication-TileImage" content="https://histoiredupsg.fr/wp-content/uploads/2017/05/cropped-Photo-11-08-2015-13-39-17-270x270.png" />
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://histoiredupsg.fr/wp-content/cache/et/global/et-divi-customizer-global-16920002106321.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="page-template-default page page-id-158601 dbdb_divi_2_4_up desktop et_divi_builder Divi_old et_pb_button_helper_class et_non_fixed_nav et_show_nav et_hide_fixed_logo et_cover_background et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_pb_pagebuilder_layout et_full_width_page et_divi_theme et_minified_js et_minified_css">
+	<div id="page-container">
+
+	
+	
+			<div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1 et_pb_row_fullwidth">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_1    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<p><a href="https://histoiredupsg.fr/"><img class="alignnone size-medium wp-image-328" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/logo_v1-300x224.png" alt="" width="200" height="175" /></a></p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_2    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0 et_pb_image_sticky et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap"><img src="https://histoiredupsg.fr/wp-content/uploads/2017/05/titre_banner_v3.png" alt="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_3    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2 et_pb_bg_layout_light  et_pb_text_align_right">
+				
+				
+				<div class="et_pb_text_inner">
+					<p><img class="wp-image-335 alignnone size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/follow_v1-300x24.png" alt="" width="180" height="24" /><br />
+<a href="https://www.facebook.com/HistoireDuPSG/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-330 size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/fb_v1-300x300.png" alt="" width="30" height="30" /></a> <a href="https://twitter.com/histoire_du_psg" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-332 size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/twt_v2-300x250.png" alt="" width="30" height="25" /></a> <a href="https://www.youtube.com/channel/UCjy-yU6qDGXoxYdap1NYQjg" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-334 size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/001b-youtube-300x125.png" alt="" width="74" height="30" /></a> <a href="https://www.instagram.com/histoire_du_psg/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-331 size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/insta_v1-300x300.png" alt="" width="30" height="30" /></a></p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_search et_pb_search_0 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<form role="search" method="get" class="et_pb_searchform" action="https://histoiredupsg.fr/">
+					<div>
+						<label class="screen-reader-text" for="s">Rechercher:</label>
+						<input type="text" value="" name="s" class="et_pb_s">
+						<input type="hidden" name="et_pb_searchform_submit" value="et_search_proccess" />
+						
+						<input type="hidden" name="et_pb_include_posts" value="yes" />
+						<input type="hidden" name="et_pb_include_pages" value="yes" />
+						<input type="submit" value="Chercher" class="et_pb_searchsubmit">
+					</div>
+				</form>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_2 et_pb_row_fullwidth">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3 et_pb_bg_layout_light  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<p><a href="https://histoiredupsg.fr/"><img class="alignnone size-medium wp-image-328" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/logo_v1-300x224.png" alt="" width="300" height="224"></a></p>
+<p><img class="alignnone size-medium wp-image-329" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/titre_banner_v3-300x53.png" alt="" width="300" height="53"></p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_4 et_pb_bg_layout_light  et_pb_text_align_right">
+				
+				
+				<div class="et_pb_text_inner">
+					<p><img class="wp-image-335 alignnone size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/follow_v1-300x24.png" alt="" width="180" height="24" /><br />
+<a href="https://www.facebook.com/HistoireDuPSG/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-330 size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/fb_v1-300x300.png" alt="" width="30" height="30" /></a> <a href="https://twitter.com/histoire_du_psg" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-332 size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/twt_v2-300x250.png" alt="" width="30" height="25" /></a> <a href="https://www.youtube.com/channel/UCjy-yU6qDGXoxYdap1NYQjg" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-334 size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/001b-youtube-300x125.png" alt="" width="74" height="30" /></a> <a href="https://www.instagram.com/histoire_du_psg/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-331 size-medium" src="https://histoiredupsg.fr/wp-content/uploads/2017/05/insta_v1-300x300.png" alt="" width="30" height="30" /></a></p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_search et_pb_search_1 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<form role="search" method="get" class="et_pb_searchform" action="https://histoiredupsg.fr/">
+					<div>
+						<label class="screen-reader-text" for="s">Rechercher:</label>
+						<input type="text" value="" name="s" class="et_pb_s">
+						<input type="hidden" name="et_pb_searchform_submit" value="et_search_proccess" />
+						
+						<input type="hidden" name="et_pb_include_posts" value="yes" />
+						<input type="hidden" name="et_pb_include_pages" value="yes" />
+						<input type="submit" value="Chercher" class="et_pb_searchsubmit">
+					</div>
+				</form>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_5 et_pb_with_background et_pb_fullwidth_section et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_module et_pb_fullwidth_menu et_pb_fullwidth_menu_1 et_pb_bg_layout_dark  et_pb_text_align_center et_dropdown_animation_fade" style="background-color: #dd2638;">
+				
+				
+				<div class="et_pb_row clearfix">
+					<nav class="fullwidth-menu-nav"><ul id="menu-menu-home" class="fullwidth-menu nav downwards"><li class="et_pb_menu_page_id-97 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-286"><a href="https://histoiredupsg.fr/home/actualite_historique_2/">ACTU HISTORIQUE</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-142490 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-142496"><a href="https://histoiredupsg.fr/les-parisiens-a-linternational/">Les Parisiens à l’international</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-81392 menu-item menu-item-type-post_type menu-item-object-post menu-item-142497"><a href="https://histoiredupsg.fr/psg-et-cdm/">Les joueurs du PSG et la Coupe du Monde</a></li>
+		<li class="et_pb_menu_page_id-143081 menu-item menu-item-type-post_type menu-item-object-post menu-item-143090"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-la-copa-america/">Les joueurs du PSG et la Copa America</a></li>
+		<li class="et_pb_menu_page_id-122274 menu-item menu-item-type-post_type menu-item-object-post menu-item-142499"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-leuro/">Les joueurs du PSG et l’Euro</a></li>
+		<li class="et_pb_menu_page_id-142474 menu-item menu-item-type-post_type menu-item-object-post menu-item-142500"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-la-coupe-dafrique-des-nations/">Les joueurs du PSG et la Coupe d’Afrique des Nations</a></li>
+		<li class="et_pb_menu_page_id-142577 menu-item menu-item-type-post_type menu-item-object-post menu-item-142584"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-la-coupe-des-confederations/">Les joueurs du PSG et la Coupe des Confédérations</a></li>
+		<li class="et_pb_menu_page_id-142920 menu-item menu-item-type-post_type menu-item-object-post menu-item-143091"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-les-jo/">Les joueurs du PSG et les jeux olympiques</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-118 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-283"><a href="https://histoiredupsg.fr/home/statistiques_2/">STATS &#038; RECORDS</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-139662 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139662"><a href="https://histoiredupsg.fr/home/statistiques_2">Collectif</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-87425 menu-item menu-item-type-custom menu-item-object-custom menu-item-87425"><a href="https://histoiredupsg.fr/le-palmares-du-psg">Palmarès du PSG</a></li>
+		<li class="et_pb_menu_page_id-87423 menu-item menu-item-type-custom menu-item-object-custom menu-item-87423"><a href="https://histoiredupsg.fr/les-records-collectifs">Records collectifs</a></li>
+		<li class="et_pb_menu_page_id-131849 menu-item menu-item-type-post_type menu-item-object-post menu-item-131854"><a href="https://histoiredupsg.fr/les-matchs-du-psg-en-chiffres/">Les matchs du PSG en chiffres</a></li>
+		<li class="et_pb_menu_page_id-123105 menu-item menu-item-type-post_type menu-item-object-post menu-item-123189"><a href="https://histoiredupsg.fr/les-adversaires-du-psg/">Les adversaires du PSG</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-139663 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139663"><a href="https://histoiredupsg.fr/home/statistiques_2">Individuel</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-87424 menu-item menu-item-type-custom menu-item-object-custom menu-item-87424"><a href="https://histoiredupsg.fr/les-records-individuels">Records individuels</a></li>
+		<li class="et_pb_menu_page_id-87419 menu-item menu-item-type-custom menu-item-object-custom menu-item-87419"><a href="https://histoiredupsg.fr/classement-historique-buteurs-psg">Classement buteurs</a></li>
+		<li class="et_pb_menu_page_id-87420 menu-item menu-item-type-custom menu-item-object-custom menu-item-87420"><a href="https://histoiredupsg.fr/classement-historique-passeurs-psg">Classement passeurs</a></li>
+		<li class="et_pb_menu_page_id-87421 menu-item menu-item-type-custom menu-item-object-custom menu-item-87421"><a href="https://histoiredupsg.fr/classement-matchs-officiels-joues-psg">Classement matchs joués</a></li>
+		<li class="et_pb_menu_page_id-139605 menu-item menu-item-type-post_type menu-item-object-post menu-item-139664"><a href="https://histoiredupsg.fr/le-classement-historique-des-clean-sheets/">Classement clean-sheets</a></li>
+		<li class="et_pb_menu_page_id-124706 menu-item menu-item-type-post_type menu-item-object-post menu-item-124848"><a href="https://histoiredupsg.fr/les-doubles-les-triples-les-quadruples-le-quintuple-au-psg/">Les multiples buteurs</a></li>
+		<li class="et_pb_menu_page_id-97222 menu-item menu-item-type-post_type menu-item-object-post menu-item-139665"><a href="https://histoiredupsg.fr/le-classement-des-buteurs-en-coupes-deurope/">Classement buteurs en coupes d’Europe</a></li>
+		<li class="et_pb_menu_page_id-97217 menu-item menu-item-type-post_type menu-item-object-post menu-item-139666"><a href="https://histoiredupsg.fr/le-classement-des-buteurs-en-coupes-nationales/">Classement buteurs en coupes nationales</a></li>
+		<li class="et_pb_menu_page_id-97212 menu-item menu-item-type-post_type menu-item-object-post menu-item-139667"><a href="https://histoiredupsg.fr/le-classement-des-buteurs-en-championnat/">Classement buteurs en championnat</a></li>
+		<li class="et_pb_menu_page_id-147713 menu-item menu-item-type-post_type menu-item-object-post menu-item-147733"><a href="https://histoiredupsg.fr/le-classement-historique-des-buteurs-du-psg-domicile/">Classement buteurs à domicile</a></li>
+		<li class="et_pb_menu_page_id-147711 menu-item menu-item-type-post_type menu-item-object-post menu-item-147734"><a href="https://histoiredupsg.fr/le-classement-historique-des-buteurs-du-psg-terrain-neutre/">Classement buteurs sur terrain neutre</a></li>
+		<li class="et_pb_menu_page_id-147712 menu-item menu-item-type-post_type menu-item-object-post menu-item-147735"><a href="https://histoiredupsg.fr/le-classement-historique-des-buteurs-du-psg-exterieur/">Classement buteurs à l’extérieur</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-123041 menu-item menu-item-type-post_type menu-item-object-post menu-item-124784"><a href="https://histoiredupsg.fr/hdpsg-tv-matchs-bestof-reportages/">HdPSG TV</a></li>
+<li class="et_pb_menu_page_id-126019 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-126480"><a href="https://histoiredupsg.fr/histoire-des-maillots-psg-1970/">MAILLOTS</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-124861 menu-item menu-item-type-post_type menu-item-object-post menu-item-131091"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-1970/">Les années 1970</a></li>
+	<li class="et_pb_menu_page_id-124896 menu-item menu-item-type-post_type menu-item-object-post menu-item-131090"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-1980/">Les années 1980</a></li>
+	<li class="et_pb_menu_page_id-124897 menu-item menu-item-type-post_type menu-item-object-post menu-item-131089"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-1990/">Les années 1990</a></li>
+	<li class="et_pb_menu_page_id-124898 menu-item menu-item-type-post_type menu-item-object-post menu-item-131088"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-2000/">Les années 2000</a></li>
+	<li class="et_pb_menu_page_id-124899 menu-item menu-item-type-post_type menu-item-object-post menu-item-131087"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-2010/">Les années 2010</a></li>
+	<li class="et_pb_menu_page_id-132902 menu-item menu-item-type-post_type menu-item-object-post menu-item-135955"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-2020/">Les années 2020</a></li>
+	<li class="et_pb_menu_page_id-138581 menu-item menu-item-type-post_type menu-item-object-post menu-item-139158"><a href="https://histoiredupsg.fr/les-maillots-du-psg-en-coupe-de-france/">En Coupe de France</a></li>
+	<li class="et_pb_menu_page_id-142502 menu-item menu-item-type-post_type menu-item-object-post menu-item-142531"><a href="https://histoiredupsg.fr/les-maillots-du-psg-en-coupe-de-la-ligue/">En Coupe de la Ligue</a></li>
+	<li class="et_pb_menu_page_id-142556 menu-item menu-item-type-post_type menu-item-object-post menu-item-142576"><a href="https://histoiredupsg.fr/les-maillots-du-psg-au-trophee-des-champions/">Au Trophée des Champions</a></li>
+	<li class="et_pb_menu_page_id-125969 menu-item menu-item-type-post_type menu-item-object-post menu-item-131092"><a href="https://histoiredupsg.fr/lecusson-du-psg-evolution-du-logo-a-travers-notre-histoire/">L&rsquo;écusson du PSG</a></li>
+	<li class="et_pb_menu_page_id-146210 menu-item menu-item-type-post_type menu-item-object-post menu-item-146471"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-par-numeros/">Les joueurs du PSG par numéros</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-4052 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48617"><a href="https://histoiredupsg.fr/home/derniers-ajouts-dans-les-archives/liste-joueurs-psg-1970/">JOUEURS</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-4052 menu-item menu-item-type-post_type menu-item-object-page menu-item-126705"><a href="https://histoiredupsg.fr/home/derniers-ajouts-dans-les-archives/liste-joueurs-psg-1970/">Les joueurs de A à Z (fiches)</a></li>
+	<li class="et_pb_menu_page_id-131155 menu-item menu-item-type-post_type menu-item-object-post menu-item-131183"><a href="https://histoiredupsg.fr/les-entraineurs-du-psg/">Les entraineurs du PSG</a></li>
+	<li class="et_pb_menu_page_id-131157 menu-item menu-item-type-post_type menu-item-object-post menu-item-131182"><a href="https://histoiredupsg.fr/les-presidents-du-psg/">Les présidents du PSG</a></li>
+	<li class="et_pb_menu_page_id-127092 menu-item menu-item-type-post_type menu-item-object-post menu-item-127114"><a href="https://histoiredupsg.fr/les-mercato-du-psg/">Les Mercato du PSG</a></li>
+	<li class="et_pb_menu_page_id-139344 menu-item menu-item-type-post_type menu-item-object-post menu-item-139359"><a href="https://histoiredupsg.fr/les-nationalites-du-psg/">Les nationalités du PSG</a></li>
+	<li class="et_pb_menu_page_id-126694 menu-item menu-item-type-post_type menu-item-object-page menu-item-126704"><a href="https://histoiredupsg.fr/home/derniers-ajouts-dans-les-archives/liste-joueurs-psg-1970/onze-legende-equipe-decennie/">Nos onze type par décénnie</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-353 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48618"><a href="https://histoiredupsg.fr/listes-des-saisons-1970/">MATCHS &#038; SAISONS</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-48619 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48619"><a href="https://histoiredupsg.fr/listes-des-saisons/#1970">Années 1970</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-374 menu-item menu-item-type-post_type menu-item-object-page menu-item-48620"><a href="https://histoiredupsg.fr/saison-1970-1971-2/">Saison 1970-1971</a></li>
+		<li class="et_pb_menu_page_id-360 menu-item menu-item-type-post_type menu-item-object-page menu-item-48621"><a href="https://histoiredupsg.fr/saison-1971-1972/">Saison 1971-1972</a></li>
+		<li class="et_pb_menu_page_id-438 menu-item menu-item-type-post_type menu-item-object-page menu-item-48622"><a href="https://histoiredupsg.fr/saison-1972-1973/">Saison 1972-1973</a></li>
+		<li class="et_pb_menu_page_id-458 menu-item menu-item-type-post_type menu-item-object-page menu-item-48623"><a href="https://histoiredupsg.fr/saison-1973-1974/">Saison 1973-1974</a></li>
+		<li class="et_pb_menu_page_id-791 menu-item menu-item-type-post_type menu-item-object-page menu-item-48624"><a href="https://histoiredupsg.fr/saison-1974-1975/">Saison 1974-1975</a></li>
+		<li class="et_pb_menu_page_id-632 menu-item menu-item-type-post_type menu-item-object-page menu-item-48625"><a href="https://histoiredupsg.fr/saison-1975-1976/">Saison 1975-1976</a></li>
+		<li class="et_pb_menu_page_id-425 menu-item menu-item-type-post_type menu-item-object-page menu-item-48626"><a href="https://histoiredupsg.fr/saison-1976-1977/">Saison 1976-1977</a></li>
+		<li class="et_pb_menu_page_id-1097 menu-item menu-item-type-post_type menu-item-object-page menu-item-48627"><a href="https://histoiredupsg.fr/saison-1977-1978/">Saison 1977-1978</a></li>
+		<li class="et_pb_menu_page_id-441 menu-item menu-item-type-post_type menu-item-object-page menu-item-48628"><a href="https://histoiredupsg.fr/saison-1978-1979/">Saison 1978-1979</a></li>
+		<li class="et_pb_menu_page_id-275 menu-item menu-item-type-post_type menu-item-object-page menu-item-48629"><a href="https://histoiredupsg.fr/saison-1979-1980/">Saison 1979-1980</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-48630 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48630"><a href="https://histoiredupsg.fr/listes-des-saisons/#1980">Années 1980</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-852 menu-item menu-item-type-post_type menu-item-object-page menu-item-48631"><a href="https://histoiredupsg.fr/saison-1980-1981/">Saison 1980-1981</a></li>
+		<li class="et_pb_menu_page_id-462 menu-item menu-item-type-post_type menu-item-object-page menu-item-48645"><a href="https://histoiredupsg.fr/saison-1981-1982/">Saison 1981-1982</a></li>
+		<li class="et_pb_menu_page_id-1391 menu-item menu-item-type-post_type menu-item-object-page menu-item-51001"><a href="https://histoiredupsg.fr/saison-1982-1983/">Saison 1982-1983</a></li>
+		<li class="et_pb_menu_page_id-378 menu-item menu-item-type-post_type menu-item-object-page menu-item-51002"><a href="https://histoiredupsg.fr/saison-1983-1984/">Saison 1983-1984</a></li>
+		<li class="et_pb_menu_page_id-1450 menu-item menu-item-type-post_type menu-item-object-page menu-item-52022"><a href="https://histoiredupsg.fr/saison-1984-1985/">Saison 1984-1985</a></li>
+		<li class="et_pb_menu_page_id-395 menu-item menu-item-type-post_type menu-item-object-page menu-item-52974"><a href="https://histoiredupsg.fr/saison-1985-1986/">Saison 1985-1986</a></li>
+		<li class="et_pb_menu_page_id-583 menu-item menu-item-type-post_type menu-item-object-page menu-item-103810"><a href="https://histoiredupsg.fr/saison-1986-1987/">Saison 1986-1987</a></li>
+		<li class="et_pb_menu_page_id-1198 menu-item menu-item-type-post_type menu-item-object-page menu-item-103968"><a href="https://histoiredupsg.fr/saison-1987-1988/">Saison 1987-1988</a></li>
+		<li class="et_pb_menu_page_id-417 menu-item menu-item-type-post_type menu-item-object-page menu-item-104028"><a href="https://histoiredupsg.fr/saison-1988-1989/">Saison 1988-1989</a></li>
+		<li class="et_pb_menu_page_id-370 menu-item menu-item-type-post_type menu-item-object-page menu-item-104105"><a href="https://histoiredupsg.fr/saison-1989-1990/">Saison 1989-1990</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-50038 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50038"><a href="https://histoiredupsg.fr/listes-des-saisons/#1990">Années 1990</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-422 menu-item menu-item-type-post_type menu-item-object-page menu-item-108226"><a href="https://histoiredupsg.fr/saison-1990-1991/">Saison 1990-1991</a></li>
+		<li class="et_pb_menu_page_id-317 menu-item menu-item-type-post_type menu-item-object-page menu-item-117867"><a href="https://histoiredupsg.fr/saison-1991-1992/">Saison 1991-1992</a></li>
+		<li class="et_pb_menu_page_id-447 menu-item menu-item-type-post_type menu-item-object-page menu-item-117986"><a href="https://histoiredupsg.fr/saison-1992-1993/">Saison 1992-1993</a></li>
+		<li class="et_pb_menu_page_id-951 menu-item menu-item-type-post_type menu-item-object-page menu-item-118008"><a href="https://histoiredupsg.fr/saison-1993-1994/">Saison 1993-1994</a></li>
+		<li class="et_pb_menu_page_id-351 menu-item menu-item-type-post_type menu-item-object-page menu-item-118136"><a href="https://histoiredupsg.fr/saison-1994-1995/">Saison 1994-1995</a></li>
+		<li class="et_pb_menu_page_id-1808 menu-item menu-item-type-post_type menu-item-object-page menu-item-118189"><a href="https://histoiredupsg.fr/saison-1995-1996/">Saison 1995-1996</a></li>
+		<li class="et_pb_menu_page_id-737 menu-item menu-item-type-post_type menu-item-object-page menu-item-118243"><a href="https://histoiredupsg.fr/saison-1996-1997/">Saison 1996-1997</a></li>
+		<li class="et_pb_menu_page_id-778 menu-item menu-item-type-post_type menu-item-object-page menu-item-118466"><a href="https://histoiredupsg.fr/saison-1997-1998/">Saison 1997-1998</a></li>
+		<li class="et_pb_menu_page_id-469 menu-item menu-item-type-post_type menu-item-object-page menu-item-118613"><a href="https://histoiredupsg.fr/saison-1998-1999/">Saison 1998-1999</a></li>
+		<li class="et_pb_menu_page_id-82 menu-item menu-item-type-post_type menu-item-object-page menu-item-118940"><a href="https://histoiredupsg.fr/saison-1999-2000/">Saison 1999-2000</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-50049 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50049"><a href="https://histoiredupsg.fr/listes-des-saisons/#2000">Années 2000</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-400 menu-item menu-item-type-post_type menu-item-object-page menu-item-119262"><a href="https://histoiredupsg.fr/saison-2000-2001/">Saison 2000-2001</a></li>
+		<li class="et_pb_menu_page_id-1462 menu-item menu-item-type-post_type menu-item-object-page menu-item-119329"><a href="https://histoiredupsg.fr/saison-2001-2002/">Saison 2001-2002</a></li>
+		<li class="et_pb_menu_page_id-1099 menu-item menu-item-type-post_type menu-item-object-page menu-item-119367"><a href="https://histoiredupsg.fr/saison-2002-2003/">Saison 2002-2003</a></li>
+		<li class="et_pb_menu_page_id-1152 menu-item menu-item-type-post_type menu-item-object-page menu-item-119449"><a href="https://histoiredupsg.fr/saison-2003-2004/">Saison 2003-2004</a></li>
+		<li class="et_pb_menu_page_id-386 menu-item menu-item-type-post_type menu-item-object-page menu-item-119498"><a href="https://histoiredupsg.fr/saison-2004-2005/">Saison 2004-2005</a></li>
+		<li class="et_pb_menu_page_id-1124 menu-item menu-item-type-post_type menu-item-object-page menu-item-119742"><a href="https://histoiredupsg.fr/saison-2005-2006/">Saison 2005-2006</a></li>
+		<li class="et_pb_menu_page_id-1013 menu-item menu-item-type-post_type menu-item-object-page menu-item-119894"><a href="https://histoiredupsg.fr/saison-2006-2007/">Saison 2006-2007</a></li>
+		<li class="et_pb_menu_page_id-1951 menu-item menu-item-type-post_type menu-item-object-page menu-item-119953"><a href="https://histoiredupsg.fr/saison-2007-2008/">Saison 2007-2008</a></li>
+		<li class="et_pb_menu_page_id-984 menu-item menu-item-type-post_type menu-item-object-page menu-item-120016"><a href="https://histoiredupsg.fr/saison-2008-2009/">Saison 2008-2009</a></li>
+		<li class="et_pb_menu_page_id-525 menu-item menu-item-type-post_type menu-item-object-page menu-item-120041"><a href="https://histoiredupsg.fr/saison-2009-2010/">Saison 2009-2010</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-50060 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50060"><a href="https://histoiredupsg.fr/listes-des-saisons/#2010">Années 2010</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-434 menu-item menu-item-type-post_type menu-item-object-page menu-item-120134"><a href="https://histoiredupsg.fr/saison-2010-2011/">Saison 2010-2011</a></li>
+		<li class="et_pb_menu_page_id-1436 menu-item menu-item-type-post_type menu-item-object-page menu-item-120182"><a href="https://histoiredupsg.fr/saison-2011-2012/">Saison 2011-2012</a></li>
+		<li class="et_pb_menu_page_id-936 menu-item menu-item-type-post_type menu-item-object-page menu-item-120286"><a href="https://histoiredupsg.fr/saison-2012-2013/">Saison 2012-2013</a></li>
+		<li class="et_pb_menu_page_id-262 menu-item menu-item-type-post_type menu-item-object-page menu-item-120367"><a href="https://histoiredupsg.fr/saison-2013-2014/">Saison 2013-2014</a></li>
+		<li class="et_pb_menu_page_id-9268 menu-item menu-item-type-post_type menu-item-object-page menu-item-120497"><a href="https://histoiredupsg.fr/saison-2014-2015/">Saison 2014-2015</a></li>
+		<li class="et_pb_menu_page_id-24185 menu-item menu-item-type-post_type menu-item-object-page menu-item-120633"><a href="https://histoiredupsg.fr/saison-2015-2016/">Saison 2015-2016</a></li>
+		<li class="et_pb_menu_page_id-37753 menu-item menu-item-type-post_type menu-item-object-page menu-item-120665"><a href="https://histoiredupsg.fr/saison-2016-2017/">Saison 2016-2017</a></li>
+		<li class="et_pb_menu_page_id-51885 menu-item menu-item-type-post_type menu-item-object-page menu-item-51888"><a href="https://histoiredupsg.fr/saison-2017-2018-2/">Saison 2017-2018</a></li>
+		<li class="et_pb_menu_page_id-85192 menu-item menu-item-type-post_type menu-item-object-page menu-item-85206"><a href="https://histoiredupsg.fr/saison-2018-2019/">Saison 2018-2019</a></li>
+		<li class="et_pb_menu_page_id-110655 menu-item menu-item-type-post_type menu-item-object-page menu-item-110895"><a href="https://histoiredupsg.fr/saison-2019-2020/">Saison 2019-2020</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-134587 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-134587"><a href="https://histoiredupsg.fr/listes-des-saisons-1970">Années 2020</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-134582 menu-item menu-item-type-post_type menu-item-object-page menu-item-134586"><a href="https://histoiredupsg.fr/saison-2020-2021/">Saison 2020-2021</a></li>
+		<li class="et_pb_menu_page_id-143157 menu-item menu-item-type-post_type menu-item-object-page menu-item-143166"><a href="https://histoiredupsg.fr/saison-2021-2022/">Saison 2021-2022</a></li>
+		<li class="et_pb_menu_page_id-151222 menu-item menu-item-type-post_type menu-item-object-post menu-item-151229"><a href="https://histoiredupsg.fr/saison-2022-2023/">Saison 2022-2023</a></li>
+		<li class="et_pb_menu_page_id-160734 menu-item menu-item-type-post_type menu-item-object-page menu-item-160738"><a href="https://histoiredupsg.fr/saison-2023-2024/">Saison 2023-2024</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-141277 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141281"><a href="https://histoiredupsg.fr/saison-europe-psg/">Euro PSG</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-141267 menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-141272"><a href="https://histoiredupsg.fr/europe-1980-1989/">Europe 1980-1989</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-140747 menu-item menu-item-type-post_type menu-item-object-post menu-item-141345"><a href="https://histoiredupsg.fr/europe-saison-1982-1983/">Europe saison 1982-1983</a></li>
+		<li class="et_pb_menu_page_id-140753 menu-item menu-item-type-post_type menu-item-object-post menu-item-141273"><a href="https://histoiredupsg.fr/europe-saison-1983-1984/">Europe Saison 1983-1984</a></li>
+		<li class="et_pb_menu_page_id-140762 menu-item menu-item-type-post_type menu-item-object-post menu-item-141274"><a href="https://histoiredupsg.fr/europe-saison-1984-1985/">Europe saison 1984-1985</a></li>
+		<li class="et_pb_menu_page_id-140766 menu-item menu-item-type-post_type menu-item-object-post menu-item-141275"><a href="https://histoiredupsg.fr/europe-saison-1986-1987/">Europe saison 1986-1987</a></li>
+		<li class="et_pb_menu_page_id-140777 menu-item menu-item-type-post_type menu-item-object-post menu-item-141276"><a href="https://histoiredupsg.fr/europe-saison-1989-1990/">Europe saison 1989-1990</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-141283 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141289"><a href="https://histoiredupsg.fr/europe-1990-1999/">Europe 1990-1999</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-140789 menu-item menu-item-type-post_type menu-item-object-post menu-item-141290"><a href="https://histoiredupsg.fr/europe-saison-1992-1993/">Europe saison 1992-1993</a></li>
+		<li class="et_pb_menu_page_id-140794 menu-item menu-item-type-post_type menu-item-object-post menu-item-141291"><a href="https://histoiredupsg.fr/europe-saison-1993-1994/">Europe saison 1993-1994</a></li>
+		<li class="et_pb_menu_page_id-140905 menu-item menu-item-type-post_type menu-item-object-post menu-item-141292"><a href="https://histoiredupsg.fr/europe-saison-1994-1995/">Europe saison 1994-1995</a></li>
+		<li class="et_pb_menu_page_id-140909 menu-item menu-item-type-post_type menu-item-object-post menu-item-141293"><a href="https://histoiredupsg.fr/europe-saison-1995-1996/">Europe saison 1995-1996</a></li>
+		<li class="et_pb_menu_page_id-140938 menu-item menu-item-type-post_type menu-item-object-post menu-item-141294"><a href="https://histoiredupsg.fr/europe-saison-1996-1997/">Europe saison 1996-1997</a></li>
+		<li class="et_pb_menu_page_id-140945 menu-item menu-item-type-post_type menu-item-object-post menu-item-141296"><a href="https://histoiredupsg.fr/europe-saison-1997-1998/">Europe Saison 1997-1998</a></li>
+		<li class="et_pb_menu_page_id-140953 menu-item menu-item-type-post_type menu-item-object-post menu-item-141295"><a href="https://histoiredupsg.fr/europe-saison-1998-1999/">Europe saison 1998-1999</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-141301 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141308"><a href="https://histoiredupsg.fr/europe-2000-2009/">Europe 2000-2009</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-140959 menu-item menu-item-type-post_type menu-item-object-post menu-item-141314"><a href="https://histoiredupsg.fr/europe-saison-2000-2001/">Europe saison 2000-2001</a></li>
+		<li class="et_pb_menu_page_id-140965 menu-item menu-item-type-post_type menu-item-object-post menu-item-141313"><a href="https://histoiredupsg.fr/europe-saison-2001-2002/">Europe saison 2001-2002</a></li>
+		<li class="et_pb_menu_page_id-140969 menu-item menu-item-type-post_type menu-item-object-post menu-item-141312"><a href="https://histoiredupsg.fr/europe-saison-2002-2003/">Europe saison 2002-2003</a></li>
+		<li class="et_pb_menu_page_id-140973 menu-item menu-item-type-post_type menu-item-object-post menu-item-141311"><a href="https://histoiredupsg.fr/europe-saison-2004-2005/">Europe saison 2004-2005</a></li>
+		<li class="et_pb_menu_page_id-140977 menu-item menu-item-type-post_type menu-item-object-post menu-item-141310"><a href="https://histoiredupsg.fr/europe-saison-2006-2007/">Europe saison 2006-2007</a></li>
+		<li class="et_pb_menu_page_id-140981 menu-item menu-item-type-post_type menu-item-object-post menu-item-141309"><a href="https://histoiredupsg.fr/europe-saison-2008-2009/">Europe saison 2008-2009</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-141316 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141320"><a href="https://histoiredupsg.fr/europe-2010-2019/">Europe 2010-2019</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-140986 menu-item menu-item-type-post_type menu-item-object-post menu-item-141330"><a href="https://histoiredupsg.fr/europe-saison-2010-2011/">Europe saison 2010-2011</a></li>
+		<li class="et_pb_menu_page_id-140994 menu-item menu-item-type-post_type menu-item-object-post menu-item-141329"><a href="https://histoiredupsg.fr/europe-saison-2011-2012/">Europe saison 2011-2012</a></li>
+		<li class="et_pb_menu_page_id-141032 menu-item menu-item-type-post_type menu-item-object-post menu-item-141328"><a href="https://histoiredupsg.fr/europe-saison-2012-2013/">Europe saison 2012-2013</a></li>
+		<li class="et_pb_menu_page_id-141037 menu-item menu-item-type-post_type menu-item-object-post menu-item-141327"><a href="https://histoiredupsg.fr/europe-saison-2013-2014/">Europe saison 2013-2014</a></li>
+		<li class="et_pb_menu_page_id-141042 menu-item menu-item-type-post_type menu-item-object-post menu-item-141326"><a href="https://histoiredupsg.fr/europe-saison-2014-2015/">Europe saison 2014-2015</a></li>
+		<li class="et_pb_menu_page_id-141047 menu-item menu-item-type-post_type menu-item-object-post menu-item-141325"><a href="https://histoiredupsg.fr/europe-saison-2015-2016/">Europe saison 2015-2016</a></li>
+		<li class="et_pb_menu_page_id-141052 menu-item menu-item-type-post_type menu-item-object-post menu-item-141324"><a href="https://histoiredupsg.fr/europe-saison-2016-2017/">Europe saison 2016-2017</a></li>
+		<li class="et_pb_menu_page_id-141056 menu-item menu-item-type-post_type menu-item-object-post menu-item-141323"><a href="https://histoiredupsg.fr/europe-saison-2017-2018/">Europe saison 2017-2018</a></li>
+		<li class="et_pb_menu_page_id-141062 menu-item menu-item-type-post_type menu-item-object-post menu-item-141322"><a href="https://histoiredupsg.fr/europe-saison-2018-2019/">Europe saison 2018-2019</a></li>
+		<li class="et_pb_menu_page_id-141070 menu-item menu-item-type-post_type menu-item-object-post menu-item-141321"><a href="https://histoiredupsg.fr/europe-saison-2019-2020/">Europe saison 2019-2020</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-141332 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141339"><a href="https://histoiredupsg.fr/europe-2020-2029/">Europe 2020-2029</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-141074 menu-item menu-item-type-post_type menu-item-object-post menu-item-141340"><a href="https://histoiredupsg.fr/europe-saison-2020-2021/">Europe saison 2020-2021</a></li>
+		<li class="et_pb_menu_page_id-145748 menu-item menu-item-type-post_type menu-item-object-post menu-item-145755"><a href="https://histoiredupsg.fr/europe-saison-2021-2022/">Europe saison 2021-2022</a></li>
+		<li class="et_pb_menu_page_id-152464 menu-item menu-item-type-post_type menu-item-object-post menu-item-152476"><a href="https://histoiredupsg.fr/europe-saison-2022-2023/">Europe saison 2022-2023</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-91567 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-91571"><a href="https://histoiredupsg.fr/actualites-archives/">ACTU ARCHIVES</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-120 menu-item menu-item-type-post_type menu-item-object-page menu-item-91572"><a href="https://histoiredupsg.fr/home/derniers-ajouts-dans-les-archives/">Derniers ajouts</a></li>
+	<li class="et_pb_menu_page_id-8372 menu-item menu-item-type-post_type menu-item-object-page menu-item-121925"><a href="https://histoiredupsg.fr/adversaires/">Matchs par adversaires</a></li>
+</ul>
+</li>
+</ul></nav>
+					<div class="et_mobile_nav_menu">
+						<a href="#" class="mobile_nav closed">
+							<span class="mobile_menu_bar"></span>
+						</a>
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_fullwidth_menu et_pb_fullwidth_menu_2 et_pb_bg_layout_dark  et_pb_text_align_center et_dropdown_animation_fade" style="background-color: #dd2638;">
+				
+				
+				<div class="et_pb_row clearfix">
+					<nav class="fullwidth-menu-nav"><ul id="menu-menu-home-mobiles" class="fullwidth-menu nav downwards"><li id="menu-item-50701" class="et_pb_menu_page_id-50701 menu-item menu-item-type-custom menu-item-object-custom menu-item-50701"><a href="https://www.histoiredupsg.fr"><img src=https://histoiredupsg.fr/wp-content/uploads/2020/05/Acceuil-HDPSG.png></a></li>
+<li id="menu-item-50435" class="et_pb_menu_page_id-97 menu-item menu-item-type-post_type menu-item-object-page menu-item-50435"><a href="https://histoiredupsg.fr/home/actualite_historique_2/">Actu historique</a></li>
+<li id="menu-item-50433" class="et_pb_menu_page_id-118 menu-item menu-item-type-post_type menu-item-object-page menu-item-50433"><a href="https://histoiredupsg.fr/home/statistiques_2/">Classements &#038; Statistiques</a></li>
+<li id="menu-item-124787" class="et_pb_menu_page_id-123041 menu-item menu-item-type-post_type menu-item-object-post menu-item-124787"><a href="https://histoiredupsg.fr/hdpsg-tv-matchs-bestof-reportages/">Histoire du PSG TV</a></li>
+<li id="menu-item-126479" class="et_pb_menu_page_id-126019 menu-item menu-item-type-post_type menu-item-object-page menu-item-126479"><a href="https://histoiredupsg.fr/histoire-des-maillots-psg-1970/">Histoire des maillots</a></li>
+<li id="menu-item-50432" class="et_pb_menu_page_id-4052 menu-item menu-item-type-post_type menu-item-object-page menu-item-50432"><a href="https://histoiredupsg.fr/home/derniers-ajouts-dans-les-archives/liste-joueurs-psg-1970/">Tous les joueurs</a></li>
+<li id="menu-item-127115" class="et_pb_menu_page_id-127092 menu-item menu-item-type-post_type menu-item-object-post menu-item-127115"><a href="https://histoiredupsg.fr/les-mercato-du-psg/">Historique Mercato</a></li>
+<li id="menu-item-87357" class="et_pb_menu_page_id-353 menu-item menu-item-type-post_type menu-item-object-page menu-item-87357"><a href="https://histoiredupsg.fr/listes-des-saisons-1970/">Tous les matchs</a></li>
+<li id="menu-item-141298" class="et_pb_menu_page_id-141277 menu-item menu-item-type-post_type menu-item-object-page menu-item-141298"><a href="https://histoiredupsg.fr/saison-europe-psg/">Euro PSG</a></li>
+<li id="menu-item-142501" class="et_pb_menu_page_id-142490 menu-item menu-item-type-post_type menu-item-object-page menu-item-142501"><a href="https://histoiredupsg.fr/les-parisiens-a-linternational/">Les Parisiens à l’international</a></li>
+<li id="menu-item-125151" class="et_pb_menu_page_id-228 menu-item menu-item-type-post_type menu-item-object-post menu-item-125151"><a href="https://histoiredupsg.fr/le-palmares-du-psg/">Palmarès</a></li>
+</ul></nav>
+					<div class="et_mobile_nav_menu">
+						<a href="#" class="mobile_nav closed">
+							<span class="mobile_menu_bar"></span>
+						</a>
+					</div>
+				</div>
+			</div>
+				
+				
+			</div> <!-- .et_pb_section --><header id="main-header" data-height-onload="300">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://histoiredupsg.fr/">
+						<img src="https://histoiredupsg.fr/wp-content/uploads/2017/05/Logo-HDPSG-png.png" alt="Histoire du #PSG" id="logo" data-height-percentage="40" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="300" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-286"><a href="https://histoiredupsg.fr/home/actualite_historique_2/">ACTU HISTORIQUE</a>
+<ul class="sub-menu">
+	<li id="menu-item-142496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-142496"><a href="https://histoiredupsg.fr/les-parisiens-a-linternational/">Les Parisiens à l’international</a>
+	<ul class="sub-menu">
+		<li id="menu-item-142497" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142497"><a href="https://histoiredupsg.fr/psg-et-cdm/">Les joueurs du PSG et la Coupe du Monde</a></li>
+		<li id="menu-item-143090" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143090"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-la-copa-america/">Les joueurs du PSG et la Copa America</a></li>
+		<li id="menu-item-142499" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142499"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-leuro/">Les joueurs du PSG et l’Euro</a></li>
+		<li id="menu-item-142500" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142500"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-la-coupe-dafrique-des-nations/">Les joueurs du PSG et la Coupe d’Afrique des Nations</a></li>
+		<li id="menu-item-142584" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142584"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-la-coupe-des-confederations/">Les joueurs du PSG et la Coupe des Confédérations</a></li>
+		<li id="menu-item-143091" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-143091"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-et-les-jo/">Les joueurs du PSG et les jeux olympiques</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-283"><a href="https://histoiredupsg.fr/home/statistiques_2/">STATS &#038; RECORDS</a>
+<ul class="sub-menu">
+	<li id="menu-item-139662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139662"><a href="https://histoiredupsg.fr/home/statistiques_2">Collectif</a>
+	<ul class="sub-menu">
+		<li id="menu-item-87425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87425"><a href="https://histoiredupsg.fr/le-palmares-du-psg">Palmarès du PSG</a></li>
+		<li id="menu-item-87423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87423"><a href="https://histoiredupsg.fr/les-records-collectifs">Records collectifs</a></li>
+		<li id="menu-item-131854" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-131854"><a href="https://histoiredupsg.fr/les-matchs-du-psg-en-chiffres/">Les matchs du PSG en chiffres</a></li>
+		<li id="menu-item-123189" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-123189"><a href="https://histoiredupsg.fr/les-adversaires-du-psg/">Les adversaires du PSG</a></li>
+	</ul>
+</li>
+	<li id="menu-item-139663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139663"><a href="https://histoiredupsg.fr/home/statistiques_2">Individuel</a>
+	<ul class="sub-menu">
+		<li id="menu-item-87424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87424"><a href="https://histoiredupsg.fr/les-records-individuels">Records individuels</a></li>
+		<li id="menu-item-87419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87419"><a href="https://histoiredupsg.fr/classement-historique-buteurs-psg">Classement buteurs</a></li>
+		<li id="menu-item-87420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87420"><a href="https://histoiredupsg.fr/classement-historique-passeurs-psg">Classement passeurs</a></li>
+		<li id="menu-item-87421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87421"><a href="https://histoiredupsg.fr/classement-matchs-officiels-joues-psg">Classement matchs joués</a></li>
+		<li id="menu-item-139664" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139664"><a href="https://histoiredupsg.fr/le-classement-historique-des-clean-sheets/">Classement clean-sheets</a></li>
+		<li id="menu-item-124848" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-124848"><a href="https://histoiredupsg.fr/les-doubles-les-triples-les-quadruples-le-quintuple-au-psg/">Les multiples buteurs</a></li>
+		<li id="menu-item-139665" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139665"><a href="https://histoiredupsg.fr/le-classement-des-buteurs-en-coupes-deurope/">Classement buteurs en coupes d’Europe</a></li>
+		<li id="menu-item-139666" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139666"><a href="https://histoiredupsg.fr/le-classement-des-buteurs-en-coupes-nationales/">Classement buteurs en coupes nationales</a></li>
+		<li id="menu-item-139667" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139667"><a href="https://histoiredupsg.fr/le-classement-des-buteurs-en-championnat/">Classement buteurs en championnat</a></li>
+		<li id="menu-item-147733" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-147733"><a href="https://histoiredupsg.fr/le-classement-historique-des-buteurs-du-psg-domicile/">Classement buteurs à domicile</a></li>
+		<li id="menu-item-147734" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-147734"><a href="https://histoiredupsg.fr/le-classement-historique-des-buteurs-du-psg-terrain-neutre/">Classement buteurs sur terrain neutre</a></li>
+		<li id="menu-item-147735" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-147735"><a href="https://histoiredupsg.fr/le-classement-historique-des-buteurs-du-psg-exterieur/">Classement buteurs à l’extérieur</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-124784" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-124784"><a href="https://histoiredupsg.fr/hdpsg-tv-matchs-bestof-reportages/">HdPSG TV</a></li>
+<li id="menu-item-126480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-126480"><a href="https://histoiredupsg.fr/histoire-des-maillots-psg-1970/">MAILLOTS</a>
+<ul class="sub-menu">
+	<li id="menu-item-131091" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-131091"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-1970/">Les années 1970</a></li>
+	<li id="menu-item-131090" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-131090"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-1980/">Les années 1980</a></li>
+	<li id="menu-item-131089" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-131089"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-1990/">Les années 1990</a></li>
+	<li id="menu-item-131088" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-131088"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-2000/">Les années 2000</a></li>
+	<li id="menu-item-131087" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-131087"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-2010/">Les années 2010</a></li>
+	<li id="menu-item-135955" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-135955"><a href="https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-2020/">Les années 2020</a></li>
+	<li id="menu-item-139158" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139158"><a href="https://histoiredupsg.fr/les-maillots-du-psg-en-coupe-de-france/">En Coupe de France</a></li>
+	<li id="menu-item-142531" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142531"><a href="https://histoiredupsg.fr/les-maillots-du-psg-en-coupe-de-la-ligue/">En Coupe de la Ligue</a></li>
+	<li id="menu-item-142576" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-142576"><a href="https://histoiredupsg.fr/les-maillots-du-psg-au-trophee-des-champions/">Au Trophée des Champions</a></li>
+	<li id="menu-item-131092" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-131092"><a href="https://histoiredupsg.fr/lecusson-du-psg-evolution-du-logo-a-travers-notre-histoire/">L&rsquo;écusson du PSG</a></li>
+	<li id="menu-item-146471" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-146471"><a href="https://histoiredupsg.fr/les-joueurs-du-psg-par-numeros/">Les joueurs du PSG par numéros</a></li>
+</ul>
+</li>
+<li id="menu-item-48617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48617"><a href="https://histoiredupsg.fr/home/derniers-ajouts-dans-les-archives/liste-joueurs-psg-1970/">JOUEURS</a>
+<ul class="sub-menu">
+	<li id="menu-item-126705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126705"><a href="https://histoiredupsg.fr/home/derniers-ajouts-dans-les-archives/liste-joueurs-psg-1970/">Les joueurs de A à Z (fiches)</a></li>
+	<li id="menu-item-131183" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-131183"><a href="https://histoiredupsg.fr/les-entraineurs-du-psg/">Les entraineurs du PSG</a></li>
+	<li id="menu-item-131182" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-131182"><a href="https://histoiredupsg.fr/les-presidents-du-psg/">Les présidents du PSG</a></li>
+	<li id="menu-item-127114" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-127114"><a href="https://histoiredupsg.fr/les-mercato-du-psg/">Les Mercato du PSG</a></li>
+	<li id="menu-item-139359" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139359"><a href="https://histoiredupsg.fr/les-nationalites-du-psg/">Les nationalités du PSG</a></li>
+	<li id="menu-item-126704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126704"><a href="https://histoiredupsg.fr/home/derniers-ajouts-dans-les-archives/liste-joueurs-psg-1970/onze-legende-equipe-decennie/">Nos onze type par décénnie</a></li>
+</ul>
+</li>
+<li id="menu-item-48618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48618"><a href="https://histoiredupsg.fr/listes-des-saisons-1970/">MATCHS &#038; SAISONS</a>
+<ul class="sub-menu">
+	<li id="menu-item-48619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48619"><a href="https://histoiredupsg.fr/listes-des-saisons/#1970">Années 1970</a>
+	<ul class="sub-menu">
+		<li id="menu-item-48620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48620"><a href="https://histoiredupsg.fr/saison-1970-1971-2/">Saison 1970-1971</a></li>
+		<li id="menu-item-48621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48621"><a href="https://histoiredupsg.fr/saison-1971-1972/">Saison 1971-1972</a></li>
+		<li id="menu-item-48622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48622"><a href="https://histoiredupsg.fr/saison-1972-1973/">Saison 1972-1973</a></li>
+		<li id="menu-item-48623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48623"><a href="https://histoiredupsg.fr/saison-1973-1974/">Saison 1973-1974</a></li>
+		<li id="menu-item-48624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48624"><a href="https://histoiredupsg.fr/saison-1974-1975/">Saison 1974-1975</a></li>
+		<li id="menu-item-48625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48625"><a href="https://histoiredupsg.fr/saison-1975-1976/">Saison 1975-1976</a></li>
+		<li id="menu-item-48626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48626"><a href="https://histoiredupsg.fr/saison-1976-1977/">Saison 1976-1977</a></li>
+		<li id="menu-item-48627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48627"><a href="https://histoiredupsg.fr/saison-1977-1978/">Saison 1977-1978</a></li>
+		<li id="menu-item-48628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48628"><a href="https://histoiredupsg.fr/saison-1978-1979/">Saison 1978-1979</a></li>
+		<li id="menu-item-48629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48629"><a href="https://histoiredupsg.fr/saison-1979-1980/">Saison 1979-1980</a></li>
+	</ul>
+</li>
+	<li id="menu-item-48630" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48630"><a href="https://histoiredupsg.fr/listes-des-saisons/#1980">Années 1980</a>
+	<ul class="sub-menu">
+		<li id="menu-item-48631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48631"><a href="https://histoiredupsg.fr/saison-1980-1981/">Saison 1980-1981</a></li>
+		<li id="menu-item-48645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48645"><a href="https://histoiredupsg.fr/saison-1981-1982/">Saison 1981-1982</a></li>
+		<li id="menu-item-51001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51001"><a href="https://histoiredupsg.fr/saison-1982-1983/">Saison 1982-1983</a></li>
+		<li id="menu-item-51002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51002"><a href="https://histoiredupsg.fr/saison-1983-1984/">Saison 1983-1984</a></li>
+		<li id="menu-item-52022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52022"><a href="https://histoiredupsg.fr/saison-1984-1985/">Saison 1984-1985</a></li>
+		<li id="menu-item-52974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52974"><a href="https://histoiredupsg.fr/saison-1985-1986/">Saison 1985-1986</a></li>
+		<li id="menu-item-103810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103810"><a href="https://histoiredupsg.fr/saison-1986-1987/">Saison 1986-1987</a></li>
+		<li id="menu-item-103968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103968"><a href="https://histoiredupsg.fr/saison-1987-1988/">Saison 1987-1988</a></li>
+		<li id="menu-item-104028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104028"><a href="https://histoiredupsg.fr/saison-1988-1989/">Saison 1988-1989</a></li>
+		<li id="menu-item-104105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104105"><a href="https://histoiredupsg.fr/saison-1989-1990/">Saison 1989-1990</a></li>
+	</ul>
+</li>
+	<li id="menu-item-50038" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50038"><a href="https://histoiredupsg.fr/listes-des-saisons/#1990">Années 1990</a>
+	<ul class="sub-menu">
+		<li id="menu-item-108226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108226"><a href="https://histoiredupsg.fr/saison-1990-1991/">Saison 1990-1991</a></li>
+		<li id="menu-item-117867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117867"><a href="https://histoiredupsg.fr/saison-1991-1992/">Saison 1991-1992</a></li>
+		<li id="menu-item-117986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117986"><a href="https://histoiredupsg.fr/saison-1992-1993/">Saison 1992-1993</a></li>
+		<li id="menu-item-118008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118008"><a href="https://histoiredupsg.fr/saison-1993-1994/">Saison 1993-1994</a></li>
+		<li id="menu-item-118136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118136"><a href="https://histoiredupsg.fr/saison-1994-1995/">Saison 1994-1995</a></li>
+		<li id="menu-item-118189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118189"><a href="https://histoiredupsg.fr/saison-1995-1996/">Saison 1995-1996</a></li>
+		<li id="menu-item-118243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118243"><a href="https://histoiredupsg.fr/saison-1996-1997/">Saison 1996-1997</a></li>
+		<li id="menu-item-118466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118466"><a href="https://histoiredupsg.fr/saison-1997-1998/">Saison 1997-1998</a></li>
+		<li id="menu-item-118613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118613"><a href="https://histoiredupsg.fr/saison-1998-1999/">Saison 1998-1999</a></li>
+		<li id="menu-item-118940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118940"><a href="https://histoiredupsg.fr/saison-1999-2000/">Saison 1999-2000</a></li>
+	</ul>
+</li>
+	<li id="menu-item-50049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50049"><a href="https://histoiredupsg.fr/listes-des-saisons/#2000">Années 2000</a>
+	<ul class="sub-menu">
+		<li id="menu-item-119262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119262"><a href="https://histoiredupsg.fr/saison-2000-2001/">Saison 2000-2001</a></li>
+		<li id="menu-item-119329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119329"><a href="https://histoiredupsg.fr/saison-2001-2002/">Saison 2001-2002</a></li>
+		<li id="menu-item-119367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119367"><a href="https://histoiredupsg.fr/saison-2002-2003/">Saison 2002-2003</a></li>
+		<li id="menu-item-119449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119449"><a href="https://histoiredupsg.fr/saison-2003-2004/">Saison 2003-2004</a></li>
+		<li id="menu-item-119498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119498"><a href="https://histoiredupsg.fr/saison-2004-2005/">Saison 2004-2005</a></li>
+		<li id="menu-item-119742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119742"><a href="https://histoiredupsg.fr/saison-2005-2006/">Saison 2005-2006</a></li>
+		<li id="menu-item-119894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119894"><a href="https://histoiredupsg.fr/saison-2006-2007/">Saison 2006-2007</a></li>
+		<li id="menu-item-119953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119953"><a href="https://histoiredupsg.fr/saison-2007-2008/">Saison 2007-2008</a></li>
+		<li id="menu-item-120016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120016"><a href="https://histoiredupsg.fr/saison-2008-2009/">Saison 2008-2009</a></li>
+		<li id="menu-item-120041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120041"><a href="https://histoiredupsg.fr/saison-2009-2010/">Saison 2009-2010</a></li>
+	</ul>
+</li>
+	<li id="menu-item-50060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50060"><a href="https://histoiredupsg.fr/listes-des-saisons/#2010">Années 2010</a>
+	<ul class="sub-menu">
+		<li id="menu-item-120134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120134"><a href="https://histoiredupsg.fr/saison-2010-2011/">Saison 2010-2011</a></li>
+		<li id="menu-item-120182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120182"><a href="https://histoiredupsg.fr/saison-2011-2012/">Saison 2011-2012</a></li>
+		<li id="menu-item-120286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120286"><a href="https://histoiredupsg.fr/saison-2012-2013/">Saison 2012-2013</a></li>
+		<li id="menu-item-120367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120367"><a href="https://histoiredupsg.fr/saison-2013-2014/">Saison 2013-2014</a></li>
+		<li id="menu-item-120497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120497"><a href="https://histoiredupsg.fr/saison-2014-2015/">Saison 2014-2015</a></li>
+		<li id="menu-item-120633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120633"><a href="https://histoiredupsg.fr/saison-2015-2016/">Saison 2015-2016</a></li>
+		<li id="menu-item-120665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120665"><a href="https://histoiredupsg.fr/saison-2016-2017/">Saison 2016-2017</a></li>
+		<li id="menu-item-51888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51888"><a href="https://histoiredupsg.fr/saison-2017-2018-2/">Saison 2017-2018</a></li>
+		<li id="menu-item-85206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85206"><a href="https://histoiredupsg.fr/saison-2018-2019/">Saison 2018-2019</a></li>
+		<li id="menu-item-110895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110895"><a href="https://histoiredupsg.fr/saison-2019-2020/">Saison 2019-2020</a></li>
+	</ul>
+</li>
+	<li id="menu-item-134587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-134587"><a href="https://histoiredupsg.fr/listes-des-saisons-1970">Années 2020</a>
+	<ul class="sub-menu">
+		<li id="menu-item-134586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134586"><a href="https://histoiredupsg.fr/saison-2020-2021/">Saison 2020-2021</a></li>
+		<li id="menu-item-143166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143166"><a href="https://histoiredupsg.fr/saison-2021-2022/">Saison 2021-2022</a></li>
+		<li id="menu-item-151229" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-151229"><a href="https://histoiredupsg.fr/saison-2022-2023/">Saison 2022-2023</a></li>
+		<li id="menu-item-160738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160738"><a href="https://histoiredupsg.fr/saison-2023-2024/">Saison 2023-2024</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-141281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141281"><a href="https://histoiredupsg.fr/saison-europe-psg/">Euro PSG</a>
+<ul class="sub-menu">
+	<li id="menu-item-141272" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-141272"><a href="https://histoiredupsg.fr/europe-1980-1989/">Europe 1980-1989</a>
+	<ul class="sub-menu">
+		<li id="menu-item-141345" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141345"><a href="https://histoiredupsg.fr/europe-saison-1982-1983/">Europe saison 1982-1983</a></li>
+		<li id="menu-item-141273" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141273"><a href="https://histoiredupsg.fr/europe-saison-1983-1984/">Europe Saison 1983-1984</a></li>
+		<li id="menu-item-141274" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141274"><a href="https://histoiredupsg.fr/europe-saison-1984-1985/">Europe saison 1984-1985</a></li>
+		<li id="menu-item-141275" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141275"><a href="https://histoiredupsg.fr/europe-saison-1986-1987/">Europe saison 1986-1987</a></li>
+		<li id="menu-item-141276" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141276"><a href="https://histoiredupsg.fr/europe-saison-1989-1990/">Europe saison 1989-1990</a></li>
+	</ul>
+</li>
+	<li id="menu-item-141289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141289"><a href="https://histoiredupsg.fr/europe-1990-1999/">Europe 1990-1999</a>
+	<ul class="sub-menu">
+		<li id="menu-item-141290" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141290"><a href="https://histoiredupsg.fr/europe-saison-1992-1993/">Europe saison 1992-1993</a></li>
+		<li id="menu-item-141291" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141291"><a href="https://histoiredupsg.fr/europe-saison-1993-1994/">Europe saison 1993-1994</a></li>
+		<li id="menu-item-141292" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141292"><a href="https://histoiredupsg.fr/europe-saison-1994-1995/">Europe saison 1994-1995</a></li>
+		<li id="menu-item-141293" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141293"><a href="https://histoiredupsg.fr/europe-saison-1995-1996/">Europe saison 1995-1996</a></li>
+		<li id="menu-item-141294" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141294"><a href="https://histoiredupsg.fr/europe-saison-1996-1997/">Europe saison 1996-1997</a></li>
+		<li id="menu-item-141296" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141296"><a href="https://histoiredupsg.fr/europe-saison-1997-1998/">Europe Saison 1997-1998</a></li>
+		<li id="menu-item-141295" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141295"><a href="https://histoiredupsg.fr/europe-saison-1998-1999/">Europe saison 1998-1999</a></li>
+	</ul>
+</li>
+	<li id="menu-item-141308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141308"><a href="https://histoiredupsg.fr/europe-2000-2009/">Europe 2000-2009</a>
+	<ul class="sub-menu">
+		<li id="menu-item-141314" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141314"><a href="https://histoiredupsg.fr/europe-saison-2000-2001/">Europe saison 2000-2001</a></li>
+		<li id="menu-item-141313" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141313"><a href="https://histoiredupsg.fr/europe-saison-2001-2002/">Europe saison 2001-2002</a></li>
+		<li id="menu-item-141312" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141312"><a href="https://histoiredupsg.fr/europe-saison-2002-2003/">Europe saison 2002-2003</a></li>
+		<li id="menu-item-141311" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141311"><a href="https://histoiredupsg.fr/europe-saison-2004-2005/">Europe saison 2004-2005</a></li>
+		<li id="menu-item-141310" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141310"><a href="https://histoiredupsg.fr/europe-saison-2006-2007/">Europe saison 2006-2007</a></li>
+		<li id="menu-item-141309" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141309"><a href="https://histoiredupsg.fr/europe-saison-2008-2009/">Europe saison 2008-2009</a></li>
+	</ul>
+</li>
+	<li id="menu-item-141320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141320"><a href="https://histoiredupsg.fr/europe-2010-2019/">Europe 2010-2019</a>
+	<ul class="sub-menu">
+		<li id="menu-item-141330" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141330"><a href="https://histoiredupsg.fr/europe-saison-2010-2011/">Europe saison 2010-2011</a></li>
+		<li id="menu-item-141329" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141329"><a href="https://histoiredupsg.fr/europe-saison-2011-2012/">Europe saison 2011-2012</a></li>
+		<li id="menu-item-141328" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141328"><a href="https://histoiredupsg.fr/europe-saison-2012-2013/">Europe saison 2012-2013</a></li>
+		<li id="menu-item-141327" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141327"><a href="https://histoiredupsg.fr/europe-saison-2013-2014/">Europe saison 2013-2014</a></li>
+		<li id="menu-item-141326" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141326"><a href="https://histoiredupsg.fr/europe-saison-2014-2015/">Europe saison 2014-2015</a></li>
+		<li id="menu-item-141325" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141325"><a href="https://histoiredupsg.fr/europe-saison-2015-2016/">Europe saison 2015-2016</a></li>
+		<li id="menu-item-141324" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141324"><a href="https://histoiredupsg.fr/europe-saison-2016-2017/">Europe saison 2016-2017</a></li>
+		<li id="menu-item-141323" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141323"><a href="https://histoiredupsg.fr/europe-saison-2017-2018/">Europe saison 2017-2018</a></li>
+		<li id="menu-item-141322" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141322"><a href="https://histoiredupsg.fr/europe-saison-2018-2019/">Europe saison 2018-2019</a></li>
+		<li id="menu-item-141321" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141321"><a href="https://histoiredupsg.fr/europe-saison-2019-2020/">Europe saison 2019-2020</a></li>
+	</ul>
+</li>
+	<li id="menu-item-141339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-141339"><a href="https://histoiredupsg.fr/europe-2020-2029/">Europe 2020-2029</a>
+	<ul class="sub-menu">
+		<li id="menu-item-141340" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-141340"><a href="https://histoiredupsg.fr/europe-saison-2020-2021/">Europe saison 2020-2021</a></li>
+		<li id="menu-item-145755" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-145755"><a href="https://histoiredupsg.fr/europe-saison-2021-2022/">Europe saison 2021-2022</a></li>
+		<li id="menu-item-152476" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-152476"><a href="https://histoiredupsg.fr/europe-saison-2022-2023/">Europe saison 2022-2023</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-91571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-91571"><a href="https://histoiredupsg.fr/actualites-archives/">ACTU ARCHIVES</a>
+<ul class="sub-menu">
+	<li id="menu-item-91572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91572"><a href="https://histoiredupsg.fr/home/derniers-ajouts-dans-les-archives/">Derniers ajouts</a></li>
+	<li id="menu-item-121925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121925"><a href="https://histoiredupsg.fr/adversaires/">Matchs par adversaires</a></li>
+</ul>
+</li>
+</ul>						</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Sélectionner une page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://histoiredupsg.fr/">
+					<input type="search" class="et-search-field" placeholder="Rechercher &hellip;" value="" name="s" title="Rechercher:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-158601" class="post-158601 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<p><a href="https://histoiredupsg.fr/404-2/attachment/404/" rel="attachment wp-att-158602"><img decoding="async" fetchpriority="high" class="alignnone  wp-image-158602" src="https://histoiredupsg.fr/wp-content/uploads/2023/01/404.png" alt="" width="888" height="500" srcset="https://histoiredupsg.fr/wp-content/uploads/2023/01/404.png 1920w, https://histoiredupsg.fr/wp-content/uploads/2023/01/404-300x169.png 300w, https://histoiredupsg.fr/wp-content/uploads/2023/01/404-1024x576.png 1024w, https://histoiredupsg.fr/wp-content/uploads/2023/01/404-768x432.png 768w, https://histoiredupsg.fr/wp-content/uploads/2023/01/404-1536x864.png 1536w, https://histoiredupsg.fr/wp-content/uploads/2023/01/404-1080x608.png 1080w" sizes="(max-width: 888px) 100vw, 888px" /></a></p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_pb_fullwidth_section et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_module et_pb_fullwidth_menu et_pb_fullwidth_menu_0 et_pb_bg_layout_dark  et_pb_text_align_center et_dropdown_animation_expand et_pb_fullwidth_menu_fullwidth" style="background-color: #dd2638;">
+				
+				
+				<div class="et_pb_row clearfix">
+					<nav class="fullwidth-menu-nav"><ul id="menu-menu-apf" class="fullwidth-menu nav downwards"><li id="menu-item-44194" class="et_pb_menu_page_id-44194 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44194"><a href="https://histoiredupsg.fr/listes-des-saisons/#1970">Années 1970</a>
+<ul class="sub-menu">
+	<li id="menu-item-44196" class="et_pb_menu_page_id-374 menu-item menu-item-type-post_type menu-item-object-page menu-item-44196"><a href="https://histoiredupsg.fr/saison-1970-1971-2/">Saison 1970-1971</a></li>
+	<li id="menu-item-44858" class="et_pb_menu_page_id-360 menu-item menu-item-type-post_type menu-item-object-page menu-item-44858"><a href="https://histoiredupsg.fr/saison-1971-1972/">Saison 1971-1972</a></li>
+	<li id="menu-item-45255" class="et_pb_menu_page_id-438 menu-item menu-item-type-post_type menu-item-object-page menu-item-45255"><a href="https://histoiredupsg.fr/saison-1972-1973/">Saison 1972-1973</a></li>
+	<li id="menu-item-46089" class="et_pb_menu_page_id-458 menu-item menu-item-type-post_type menu-item-object-page menu-item-46089"><a href="https://histoiredupsg.fr/saison-1973-1974/">Saison 1973-1974</a></li>
+	<li id="menu-item-46469" class="et_pb_menu_page_id-791 menu-item menu-item-type-post_type menu-item-object-page menu-item-46469"><a href="https://histoiredupsg.fr/saison-1974-1975/">Saison 1974-1975</a></li>
+	<li id="menu-item-47068" class="et_pb_menu_page_id-632 menu-item menu-item-type-post_type menu-item-object-page menu-item-47068"><a href="https://histoiredupsg.fr/saison-1975-1976/">Saison 1975-1976</a></li>
+	<li id="menu-item-47197" class="et_pb_menu_page_id-425 menu-item menu-item-type-post_type menu-item-object-page menu-item-47197"><a href="https://histoiredupsg.fr/saison-1976-1977/">Saison 1976-1977</a></li>
+	<li id="menu-item-47443" class="et_pb_menu_page_id-1097 menu-item menu-item-type-post_type menu-item-object-page menu-item-47443"><a href="https://histoiredupsg.fr/saison-1977-1978/">Saison 1977-1978</a></li>
+	<li id="menu-item-48069" class="et_pb_menu_page_id-441 menu-item menu-item-type-post_type menu-item-object-page menu-item-48069"><a href="https://histoiredupsg.fr/saison-1978-1979/">Saison 1978-1979</a></li>
+	<li id="menu-item-48192" class="et_pb_menu_page_id-275 menu-item menu-item-type-post_type menu-item-object-page menu-item-48192"><a href="https://histoiredupsg.fr/saison-1979-1980/">Saison 1979-1980</a></li>
+</ul>
+</li>
+<li id="menu-item-44880" class="et_pb_menu_page_id-44880 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44880"><a href="https://histoiredupsg.fr/listes-des-saisons/#1980">Années 1980</a>
+<ul class="sub-menu">
+	<li id="menu-item-48386" class="et_pb_menu_page_id-852 menu-item menu-item-type-post_type menu-item-object-page menu-item-48386"><a href="https://histoiredupsg.fr/saison-1980-1981/">Saison 1980-1981</a></li>
+	<li id="menu-item-48644" class="et_pb_menu_page_id-462 menu-item menu-item-type-post_type menu-item-object-page menu-item-48644"><a href="https://histoiredupsg.fr/saison-1981-1982/">Saison 1981-1982</a></li>
+	<li id="menu-item-50999" class="et_pb_menu_page_id-1391 menu-item menu-item-type-post_type menu-item-object-page menu-item-50999"><a href="https://histoiredupsg.fr/saison-1982-1983/">Saison 1982-1983</a></li>
+	<li id="menu-item-51000" class="et_pb_menu_page_id-378 menu-item menu-item-type-post_type menu-item-object-page menu-item-51000"><a href="https://histoiredupsg.fr/saison-1983-1984/">Saison 1983-1984</a></li>
+	<li id="menu-item-52021" class="et_pb_menu_page_id-1450 menu-item menu-item-type-post_type menu-item-object-page menu-item-52021"><a href="https://histoiredupsg.fr/saison-1984-1985/">Saison 1984-1985</a></li>
+	<li id="menu-item-52975" class="et_pb_menu_page_id-395 menu-item menu-item-type-post_type menu-item-object-page menu-item-52975"><a href="https://histoiredupsg.fr/saison-1985-1986/">Saison 1985-1986</a></li>
+	<li id="menu-item-103811" class="et_pb_menu_page_id-583 menu-item menu-item-type-post_type menu-item-object-page menu-item-103811"><a href="https://histoiredupsg.fr/saison-1986-1987/">Saison 1986-1987</a></li>
+	<li id="menu-item-103967" class="et_pb_menu_page_id-1198 menu-item menu-item-type-post_type menu-item-object-page menu-item-103967"><a href="https://histoiredupsg.fr/saison-1987-1988/">Saison 1987-1988</a></li>
+	<li id="menu-item-104029" class="et_pb_menu_page_id-417 menu-item menu-item-type-post_type menu-item-object-page menu-item-104029"><a href="https://histoiredupsg.fr/saison-1988-1989/">Saison 1988-1989</a></li>
+	<li id="menu-item-104106" class="et_pb_menu_page_id-370 menu-item menu-item-type-post_type menu-item-object-page menu-item-104106"><a href="https://histoiredupsg.fr/saison-1989-1990/">Saison 1989-1990</a></li>
+</ul>
+</li>
+<li id="menu-item-44910" class="et_pb_menu_page_id-44910 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44910"><a href="https://histoiredupsg.fr/listes-des-saisons/#1990">Années 1990</a>
+<ul class="sub-menu">
+	<li id="menu-item-108227" class="et_pb_menu_page_id-422 menu-item menu-item-type-post_type menu-item-object-page menu-item-108227"><a href="https://histoiredupsg.fr/saison-1990-1991/">Saison 1990-1991</a></li>
+	<li id="menu-item-117865" class="et_pb_menu_page_id-317 menu-item menu-item-type-post_type menu-item-object-page menu-item-117865"><a href="https://histoiredupsg.fr/saison-1991-1992/">Saison 1991-1992</a></li>
+	<li id="menu-item-117987" class="et_pb_menu_page_id-447 menu-item menu-item-type-post_type menu-item-object-page menu-item-117987"><a href="https://histoiredupsg.fr/saison-1992-1993/">Saison 1992-1993</a></li>
+	<li id="menu-item-118007" class="et_pb_menu_page_id-951 menu-item menu-item-type-post_type menu-item-object-page menu-item-118007"><a href="https://histoiredupsg.fr/saison-1993-1994/">Saison 1993-1994</a></li>
+	<li id="menu-item-118137" class="et_pb_menu_page_id-351 menu-item menu-item-type-post_type menu-item-object-page menu-item-118137"><a href="https://histoiredupsg.fr/saison-1994-1995/">Saison 1994-1995</a></li>
+	<li id="menu-item-118188" class="et_pb_menu_page_id-1808 menu-item menu-item-type-post_type menu-item-object-page menu-item-118188"><a href="https://histoiredupsg.fr/saison-1995-1996/">Saison 1995-1996</a></li>
+	<li id="menu-item-118244" class="et_pb_menu_page_id-737 menu-item menu-item-type-post_type menu-item-object-page menu-item-118244"><a href="https://histoiredupsg.fr/saison-1996-1997/">Saison 1996-1997</a></li>
+	<li id="menu-item-118465" class="et_pb_menu_page_id-778 menu-item menu-item-type-post_type menu-item-object-page menu-item-118465"><a href="https://histoiredupsg.fr/saison-1997-1998/">Saison 1997-1998</a></li>
+	<li id="menu-item-118614" class="et_pb_menu_page_id-469 menu-item menu-item-type-post_type menu-item-object-page menu-item-118614"><a href="https://histoiredupsg.fr/saison-1998-1999/">Saison 1998-1999</a></li>
+	<li id="menu-item-118939" class="et_pb_menu_page_id-82 menu-item menu-item-type-post_type menu-item-object-page menu-item-118939"><a href="https://histoiredupsg.fr/saison-1999-2000/">Saison 1999-2000</a></li>
+</ul>
+</li>
+<li id="menu-item-44911" class="et_pb_menu_page_id-44911 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44911"><a href="https://histoiredupsg.fr/listes-des-saisons/#2000">Années 2000</a>
+<ul class="sub-menu">
+	<li id="menu-item-119263" class="et_pb_menu_page_id-400 menu-item menu-item-type-post_type menu-item-object-page menu-item-119263"><a href="https://histoiredupsg.fr/saison-2000-2001/">Saison 2000-2001</a></li>
+	<li id="menu-item-119327" class="et_pb_menu_page_id-1462 menu-item menu-item-type-post_type menu-item-object-page menu-item-119327"><a href="https://histoiredupsg.fr/saison-2001-2002/">Saison 2001-2002</a></li>
+	<li id="menu-item-119368" class="et_pb_menu_page_id-1099 menu-item menu-item-type-post_type menu-item-object-page menu-item-119368"><a href="https://histoiredupsg.fr/saison-2002-2003/">Saison 2002-2003</a></li>
+	<li id="menu-item-119448" class="et_pb_menu_page_id-1152 menu-item menu-item-type-post_type menu-item-object-page menu-item-119448"><a href="https://histoiredupsg.fr/saison-2003-2004/">Saison 2003-2004</a></li>
+	<li id="menu-item-119499" class="et_pb_menu_page_id-386 menu-item menu-item-type-post_type menu-item-object-page menu-item-119499"><a href="https://histoiredupsg.fr/saison-2004-2005/">Saison 2004-2005</a></li>
+	<li id="menu-item-119741" class="et_pb_menu_page_id-1124 menu-item menu-item-type-post_type menu-item-object-page menu-item-119741"><a href="https://histoiredupsg.fr/saison-2005-2006/">Saison 2005-2006</a></li>
+	<li id="menu-item-119895" class="et_pb_menu_page_id-1013 menu-item menu-item-type-post_type menu-item-object-page menu-item-119895"><a href="https://histoiredupsg.fr/saison-2006-2007/">Saison 2006-2007</a></li>
+	<li id="menu-item-119952" class="et_pb_menu_page_id-1951 menu-item menu-item-type-post_type menu-item-object-page menu-item-119952"><a href="https://histoiredupsg.fr/saison-2007-2008/">Saison 2007-2008</a></li>
+	<li id="menu-item-120017" class="et_pb_menu_page_id-984 menu-item menu-item-type-post_type menu-item-object-page menu-item-120017"><a href="https://histoiredupsg.fr/saison-2008-2009/">Saison 2008-2009</a></li>
+	<li id="menu-item-120040" class="et_pb_menu_page_id-525 menu-item menu-item-type-post_type menu-item-object-page menu-item-120040"><a href="https://histoiredupsg.fr/saison-2009-2010/">Saison 2009-2010</a></li>
+</ul>
+</li>
+<li id="menu-item-44912" class="et_pb_menu_page_id-44912 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44912"><a href="https://histoiredupsg.fr/listes-des-saisons/#2010">Années 2010</a>
+<ul class="sub-menu">
+	<li id="menu-item-120135" class="et_pb_menu_page_id-434 menu-item menu-item-type-post_type menu-item-object-page menu-item-120135"><a href="https://histoiredupsg.fr/saison-2010-2011/">Saison 2010-2011</a></li>
+	<li id="menu-item-120181" class="et_pb_menu_page_id-1436 menu-item menu-item-type-post_type menu-item-object-page menu-item-120181"><a href="https://histoiredupsg.fr/saison-2011-2012/">Saison 2011-2012</a></li>
+	<li id="menu-item-120287" class="et_pb_menu_page_id-936 menu-item menu-item-type-post_type menu-item-object-page menu-item-120287"><a href="https://histoiredupsg.fr/saison-2012-2013/">Saison 2012-2013</a></li>
+	<li id="menu-item-120365" class="et_pb_menu_page_id-262 menu-item menu-item-type-post_type menu-item-object-page menu-item-120365"><a href="https://histoiredupsg.fr/saison-2013-2014/">Saison 2013-2014</a></li>
+	<li id="menu-item-120498" class="et_pb_menu_page_id-9268 menu-item menu-item-type-post_type menu-item-object-page menu-item-120498"><a href="https://histoiredupsg.fr/saison-2014-2015/">Saison 2014-2015</a></li>
+	<li id="menu-item-120632" class="et_pb_menu_page_id-24185 menu-item menu-item-type-post_type menu-item-object-page menu-item-120632"><a href="https://histoiredupsg.fr/saison-2015-2016/">Saison 2015-2016</a></li>
+	<li id="menu-item-120666" class="et_pb_menu_page_id-37753 menu-item menu-item-type-post_type menu-item-object-page menu-item-120666"><a href="https://histoiredupsg.fr/saison-2016-2017/">Saison 2016-2017</a></li>
+	<li id="menu-item-51889" class="et_pb_menu_page_id-51885 menu-item menu-item-type-post_type menu-item-object-page menu-item-51889"><a href="https://histoiredupsg.fr/saison-2017-2018-2/">Saison 2017-2018</a></li>
+	<li id="menu-item-85203" class="et_pb_menu_page_id-85192 menu-item menu-item-type-post_type menu-item-object-page menu-item-85203"><a href="https://histoiredupsg.fr/saison-2018-2019/">Saison 2018-2019</a></li>
+	<li id="menu-item-110867" class="et_pb_menu_page_id-110655 menu-item menu-item-type-post_type menu-item-object-page menu-item-110867"><a href="https://histoiredupsg.fr/saison-2019-2020/">Saison 2019-2020</a></li>
+</ul>
+</li>
+<li id="menu-item-134770" class="et_pb_menu_page_id-134770 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-134770"><a href="https://histoiredupsg.fr/listes-des-saisons/#2020">Années 2020</a>
+<ul class="sub-menu">
+	<li id="menu-item-134769" class="et_pb_menu_page_id-134582 menu-item menu-item-type-post_type menu-item-object-page menu-item-134769"><a href="https://histoiredupsg.fr/saison-2020-2021/">Saison 2020-2021</a></li>
+	<li id="menu-item-143164" class="et_pb_menu_page_id-143157 menu-item menu-item-type-post_type menu-item-object-page menu-item-143164"><a href="https://histoiredupsg.fr/saison-2021-2022/">Saison 2021-2022</a></li>
+	<li id="menu-item-151555" class="et_pb_menu_page_id-151323 menu-item menu-item-type-post_type menu-item-object-page menu-item-151555"><a href="https://histoiredupsg.fr/saison-2022-2023/">Saison 2022-2023</a></li>
+	<li id="menu-item-162234" class="et_pb_menu_page_id-160734 menu-item menu-item-type-post_type menu-item-object-page menu-item-162234"><a href="https://histoiredupsg.fr/saison-2023-2024/">Saison 2023-2024</a></li>
+</ul>
+</li>
+<li id="menu-item-121927" class="et_pb_menu_page_id-8372 menu-item menu-item-type-post_type menu-item-object-page menu-item-121927"><a href="https://histoiredupsg.fr/adversaires/">Adversaires</a></li>
+</ul></nav>
+					<div class="et_mobile_nav_menu">
+						<a href="#" class="mobile_nav closed">
+							<span class="mobile_menu_bar"></span>
+						</a>
+					</div>
+				</div>
+			</div>
+				
+				
+			</div> <!-- .et_pb_section -->					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://www.facebook.com/HistoireDuPSG/" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="https://twitter.com/histoire_du_psg" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+
+</ul><div id="footer-info">Histoire du PSG © 2017 - Tous droits réservés - Réalisé par 
+<a target="_blank" href="http://www.studiobelafonte.fr">Studio Belafonte</a>
+</div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="right:0px;top:100px;background-color:transparent"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fhistoiredupsg.fr%2F404-2%2F&amp;linkname=404%20-%20Histoire%20du%20%23PSG" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fhistoiredupsg.fr%2F404-2%2F&amp;linkname=404%20-%20Histoire%20du%20%23PSG" title="Twitter" rel="nofollow noopener" target="_blank"></a></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v6.0"></script>	<script type="text/javascript">
+		var et_animation_data = [];
+	</script>
+	<link rel="preload" href="https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/icons/socicon/fonts/Socicon.woff2?87visu" as="font" crossorigin>
+<style>
+@font-face {
+  font-family: 'Socicon';
+  src:  url('https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/icons/socicon/fonts/Socicon.eot?87visu');
+  src:  url('https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/icons/socicon/fonts/Socicon.eot?87visu#iefix') format('embedded-opentype'),
+	url('https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/icons/socicon/fonts/Socicon.woff2?87visu') format('woff2'),
+	url('https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/icons/socicon/fonts/Socicon.ttf?87visu') format('truetype'),
+	url('https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/icons/socicon/fonts/Socicon.woff?87visu') format('woff'),
+	url('https://histoiredupsg.fr/wp-content/plugins/divi-booster/core/icons/socicon/fonts/Socicon.svg?87visu#Socicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+</style>
+		<script type='text/javascript' id='thickbox-js-extra'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Suiv.\u00a0>","prev":"<\u00a0Pr\u00e9c.","image":"Image","of":"sur","close":"Fermer","noiframes":"Cette fonctionnalit\u00e9 requiert des iframes. Les iframes sont d\u00e9sactiv\u00e9es sur votre navigateur, ou alors il ne les accepte pas.","loadingAnimation":"https:\/\/histoiredupsg.fr\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105' id='thickbox-js'></script>
+<script type='text/javascript' id='ytwd_frontend_main-js-js-extra'>
+/* <![CDATA[ */
+var ytwdGlobal = {"ajaxURL":"https:\/\/histoiredupsg.fr\/wp-admin\/admin-ajax.php","YTWD_URL":"https:\/\/histoiredupsg.fr\/wp-content\/plugins\/wd-youtube","txt_show_more":"Show More","txt_show_less":"Show Less","txt_loading":"Loading"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/wd-youtube/js/frontend_main.js?ver=1.0.33' id='ytwd_frontend_main-js-js'></script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/histoiredupsg.fr\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8' id='contact-form-7-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Pr\u00e9c\u00e9dent","next":"Suivant"};
+var et_pb_custom = {"ajaxurl":"https:\/\/histoiredupsg.fr\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/histoiredupsg.fr\/wp-content\/themes\/Divi_old\/images","builder_images_uri":"https:\/\/histoiredupsg.fr\/wp-content\/themes\/Divi_old\/includes\/builder\/images","et_frontend_nonce":"0d0b22702d","subscription_failed":"Veuillez v\u00e9rifier les champs ci-dessous pour vous assurer que vous avez entr\u00e9 les informations correctes.","et_ab_log_nonce":"e185c7f0ca","fill_message":"S'il vous pla\u00eet, remplissez les champs suivants:","contact_error_message":"Veuillez corriger les erreurs suivantes :","invalid":"E-mail non valide","captcha":"Captcha","prev":"Pr\u00e9c\u00e9dent","previous":"Pr\u00e9c\u00e9dente","next":"Prochaine","wrong_captcha":"Vous avez entr\u00e9 le mauvais num\u00e9ro dans le captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"158601","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/themes/Divi_old/js/custom.min.js?ver=3.3.1' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/supreme-modules-for-divi/scripts/frontend-bundle.min.js?ver=2.5.2' id='supreme-modules-for-divi-frontend-bundle-js'></script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/dynamic-to-top/js/libs/jquery.easing.js?ver=1.3' id='jquery-easing-js'></script>
+<script type='text/javascript' id='dynamic-to-top-js-extra'>
+/* <![CDATA[ */
+var mv_dynamic_to_top = {"text":"Haut de page","version":"0","min":"300","speed":"700","easing":"easeInExpo","margin":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/dynamic-to-top/js/dynamic.to.top.min.js?ver=3.5' id='dynamic-to-top-js'></script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/divi-builder_old/core/admin/js/common.js?ver=3.19' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/uploads/wtfdivi/wp_footer.js?ver=1598785379' id='wtfdivi-user-js-js'></script>
+<script type='text/javascript' id='ivory-search-scripts-js-extra'>
+/* <![CDATA[ */
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://histoiredupsg.fr/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5.2' id='ivory-search-scripts-js'></script>
+<style id="et-builder-module-design-cached-inline-styles">.et_pb_section_0.et_pb_section{background-color:#0942a3!important}.et_pb_fullwidth_menu_1.et_pb_fullwidth_menu{background-color:#dd2638}.et_pb_search_1 input.et_pb_s{color:#000000!important;background-color:rgba(226,226,226,0.82);border-color:#000000!important;height:auto;min-height:0}.et_pb_search_1 input.et_pb_s::-webkit-input-placeholder{color:#000000!important}.et_pb_search_1 input.et_pb_s::-moz-placeholder{color:#000000!important}.et_pb_search_1 input.et_pb_s::-ms-input-placeholder{color:#000000!important}.et_pb_search_1 input.et_pb_searchsubmit{font-family:'big-noodle-classic',Georgia,"Times New Roman",serif;color:#dbdbdb!important;background:#000000!important;border-color:#000000!important}.et_pb_section_5.et_pb_section{background-color:#ee1b22!important}.et_pb_fullwidth_menu_1.et_pb_fullwidth_menu ul li a{font-family:'big-noodle-classic',Georgia,"Times New Roman",serif;font-size:20px}.et_pb_fullwidth_menu_1.et_pb_fullwidth_menu .nav li ul{background-color:#dd2638!important}.et_pb_section_4{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}.et_pb_fullwidth_menu_1.et_pb_fullwidth_menu .nav li ul a{color:#ffffff!important}.et_pb_fullwidth_menu_1.et_pb_fullwidth_menu .et_mobile_menu,.et_pb_fullwidth_menu_1.et_pb_fullwidth_menu .et_mobile_menu ul{background-color:#dd2638!important}.et_pb_fullwidth_menu_1.et_pb_fullwidth_menu .et_mobile_menu a{color:#ffffff!important}.et_pb_fullwidth_menu_2.et_pb_fullwidth_menu ul li a{font-family:'big-noodle-classic',Georgia,"Times New Roman",serif;font-size:20px}.et_pb_fullwidth_menu_2.et_pb_fullwidth_menu{background-color:#dd2638}.et_pb_fullwidth_menu_2.et_pb_fullwidth_menu .nav li ul{background-color:#dd2638!important}.et_pb_fullwidth_menu_2.et_pb_fullwidth_menu .nav li ul a{color:#ffffff!important}.et_pb_fullwidth_menu_2.et_pb_fullwidth_menu .et_mobile_menu,.et_pb_fullwidth_menu_2.et_pb_fullwidth_menu .et_mobile_menu ul{background-color:#dd2638!important}.et_pb_text_4{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:0px!important;margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}div.et_pb_section.et_pb_section_4{background-image:url(https://histoiredupsg.fr/wp-content/uploads/2017/05/background_banner.png)!important}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu ul li a{font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:12px;line-height:0em}.et_pb_section_2{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu{background-color:#dd2638}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .nav li ul{background-color:#dd2638!important;border-color:#ffffff}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .et_mobile_menu{border-color:#ffffff}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .nav li ul a{color:#ffffff!important}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .et_mobile_menu,.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .et_mobile_menu ul{background-color:#dd2638!important}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .et_mobile_menu a{color:#ffffff!important}div.et_pb_section.et_pb_section_2{background-image:url(https://histoiredupsg.fr/wp-content/uploads/2017/05/background_banner.png)!important}div.et_pb_section.et_pb_section_3{background-image:url(https://histoiredupsg.fr/wp-content/uploads/2017/05/background_banner.png)!important}.et_pb_search_0 input.et_pb_searchsubmit{font-family:'big-noodle-classic',Georgia,"Times New Roman",serif;color:#dbdbdb!important;background:#000000!important;border-color:#000000!important}.et_pb_section_3{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}.et_pb_image_0{margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important;max-width:100%!important;text-align:center}.et_pb_image_0 .et_pb_image_wrap,.et_pb_image_0 img{width:100%}.et_pb_text_2{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:0px!important;margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}.et_pb_search_0 input.et_pb_s{color:#000000!important;background-color:rgba(226,226,226,0.82);border-color:#000000!important;height:auto;min-height:0}.et_pb_search_0 input.et_pb_s::-webkit-input-placeholder{color:#000000!important}.et_pb_search_0 input.et_pb_s::-moz-placeholder{color:#000000!important}.et_pb_search_0 input.et_pb_s::-ms-input-placeholder{color:#000000!important}.et_pb_fullwidth_menu_2.et_pb_fullwidth_menu .et_mobile_menu a{color:#ffffff!important}@media only screen and (min-width:981px){.et_pb_section_4{display:none!important}.et_pb_search_1{display:none!important}.et_pb_fullwidth_menu_2{display:none!important}}@media only screen and (min-width:768px) and (max-width:980px){.et_pb_section_2{display:none!important}.et_pb_section_3{display:none!important}.et_pb_fullwidth_menu_1{display:none!important}}@media only screen and (max-width:767px){.et_pb_section_2{display:none!important}.et_pb_section_3{display:none!important}.et_pb_fullwidth_menu_1{display:none!important}}</style></body>
+</html>
